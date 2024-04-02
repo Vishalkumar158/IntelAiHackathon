@@ -42,9 +42,9 @@ Our model is proficient in detecting "ON" and "OFF" electrical appliances and ca
 
 ![model_performance](https://github.com/Vishalkumar158/IntelAiHackathon/assets/124500092/2743b072-c96d-427e-a656-f80b7ae5848e)
 
-![image](https://github.com/Vishalkumar158/Intel_Ai_Hackathon/assets/124500092/7ec3bf63-f197-4dff-bfeb-ac4cf4a46507)
+![output](https://github.com/Vishalkumar158/IntelAiHackathon/assets/124500092/595eaa19-4c50-4f9b-a1ef-a1fbb38a7f6a)
 
-![output_power_consumption](https://github.com/Vishalkumar158/Intel_Ai_Hackathon/assets/124500092/8bbfbd16-e0e7-4f01-9c00-4606a4fc7565)
+![output_power_consumption](https://github.com/Vishalkumar158/IntelAiHackathon/assets/124500092/83f45545-2678-42b1-919a-fd3120dd4721)
 
 We use table of power consumption as given on [altE](https://www.altestore.com/diy-solar-resources/power-ratings-typical-for-common-appliances/), an organization for making renewable resources.
 
