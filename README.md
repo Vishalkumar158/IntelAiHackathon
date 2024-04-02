@@ -9,7 +9,7 @@ Team Members
   
 Empowering Efficiency: Real-Time Building Estimation with Computer Vision
 ```bash
-give link of hosted repo on Hugging Face hub
+git clone https://github.com/Vishalkumar158/IntelAiHackathon.git
 ```
 
 # Problem Statement
