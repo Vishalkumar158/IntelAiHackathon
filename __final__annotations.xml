@@ -1,0 +1,3246 @@
+<annotations version="1.1"><meta><task>
+      <id>582947</id>
+      <name>ac_detector</name>
+      <size>179</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker />
+      <created>2024-03-29 15:06:52.886328+00:00</created>
+      <updated>2024-03-29 15:47:48.715548+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>178</stop_frame>
+      <frame_filter />
+      <segments>
+        <segment>
+          <id>673626</id>
+          <start>0</start>
+          <stop>178</stop>
+          <url>https://app.cvat.ai/api/jobs/672206</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>dev66</username>
+        <email>viditdev@gmail.com</email>
+      </owner>
+      <assignee />
+      <labels>
+        <label>
+          <name>AirConditioner</name>
+          <color>#33ddff</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2024-03-29 15:48:22.913703+00:00</dumped>
+  </meta><image id="0" name="-lg-electronics-daikin-yuh-klymat-elgin-5b6f55c8036735.050835211534023112014.jpg" width="900" height="900">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="130.00" ytl="279.26" xbr="781.98" ybr="576.29" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="02_2.jpg" width="3000" height="1688">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="272.96" ytl="337.03" xbr="2582.12" ybr="1041.75" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="0567.jpg_wh860.jpg" width="860" height="574">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="141.56" ytl="1.94" xbr="860.00" ybr="441.44" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="10427.-Download-Free-Air-Conditioner-Model-By-Vu-Long.jpg" width="1208" height="1111">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="159.33" ytl="118.27" xbr="1083.33" ybr="932.27" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="10967.-Download-Free-Air-Conditioner-Model-By-Tuan-An-scaled.jpg" width="1500" height="1000">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="283.83" ytl="239.27" xbr="1277.23" ybr="732.67" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="13018.-Free-Sketchup-Air-Conditioner-Model-Download-2-scaled.jpg" width="1500" height="958">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="293.93" ytl="400.00" xbr="1191.85" ybr="698.78" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="1509987175_23.jpg" width="640" height="640">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="31.18" ytl="97.18" xbr="610.98" ybr="573.49" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="1607425536_2.jpg" width="640" height="640">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="236.06" ytl="22.20" xbr="417.71" ybr="616.79" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="16372900785398.png" width="1028" height="782">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="110.72" ytl="394.87" xbr="895.30" ybr="609.08" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="16408456969118.jpg" width="512" height="341">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="32.34" ytl="66.66" xbr="485.32" ybr="290.62" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="17-173748_free-png-download-air-conditioner-png-images-background.png" width="840" height="611">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="19.21" ytl="39.78" xbr="820.77" ybr="583.23" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="175-1754973_daikin-range-of-air-conditioner-hd-png-download.png" width="860" height="667">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="33.23" ytl="373.66" xbr="614.37" ybr="549.77" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="536.23" ytl="431.99" xbr="704.63" ybr="554.17" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="672.71" ytl="44.56" xbr="825.70" ybr="503.54" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="20220223020959_b434db0ce9250502e70bc3cd0519a8fb.jpg" width="750" height="750">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="178.84" ytl="174.50" xbr="597.15" ybr="594.06" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="299-2995999_split-ac-png-download-image-air-conditioner-images.png" width="860" height="386">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="36.61" ytl="62.01" xbr="813.17" ybr="358.43" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="360_F_116782267_942hICXBroqAudraCSiT1hBdQNXii5ih.jpg" width="480" height="360">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="129.82" ytl="155.07" xbr="460.12" ybr="309.52" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="360_F_276011892_aOh6cCIeBOiA0fDS8mWzJ9leeiPjzyCQ.jpg" width="540" height="360">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="28.53" ytl="180.61" xbr="508.53" ybr="325.56" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="422aa1520760c530804a7d6f148871eb.png" width="2900" height="2200">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="388.12" ytl="1216.20" xbr="2511.88" ybr="1905.97" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="438093704.jpg" width="964" height="1620">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="119.84" ytl="227.31" xbr="836.28" ybr="606.91" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="320.34" ytl="1168.30" xbr="630.43" ybr="1261.86" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="368.45" ytl="1435.62" xbr="566.28" ybr="1486.42" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="445-4452342_window-ac-png-download-image-8000-btu-air.png" width="826" height="492">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="1.01" ytl="1.66" xbr="717.90" ybr="487.97" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="51SLfKvZ4nS.jpg" width="1601" height="1601">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="63.32" ytl="278.63" xbr="1582.42" ybr="1166.32" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="51eqIWF3IjL.jpg" width="1000" height="893">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="232.56" ytl="292.53" xbr="751.26" ybr="495.89" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="51p8NCnm8fL._AC_UF10001000_QL80_.jpg" width="1000" height="862">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="0.00" ytl="180.59" xbr="783.71" ybr="699.78" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="52912-9-air-conditioner-picture-png-download-free.png" width="600" height="600">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="221.29" ytl="288.12" xbr="600.00" ybr="564.36" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="31.19" ytl="116.83" xbr="526.24" ybr="493.07" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="572-5728665_inverter-air-conditioner-samsung-ar5680-ar09kswnawknet-ac-samsung.png" width="860" height="750">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="74.13" ytl="42.08" xbr="791.95" ybr="269.80" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="584-5846167_lg-ductless-air-conditioning-mini-split-air-conditioner.png" width="860" height="623">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="111.78" ytl="43.72" xbr="747.11" ybr="248.30" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="588d740d871d493e074f10c8fd962c6e.jpg" width="736" height="736">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="57.70" ytl="132.39" xbr="169.44" ybr="190.69" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="311.53" ytl="115.39" xbr="424.48" ybr="177.33" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="555.65" ytl="123.89" xbr="669.82" ybr="176.12" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="504.64" ytl="246.56" xbr="686.82" ybr="344.93" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="294.53" ytl="589.05" xbr="494.93" ybr="659.49" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="51.63" ytl="291.49" xbr="211.94" ybr="347.36" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="279.96" ytl="287.85" xbr="437.84" ybr="347.36" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="6-2-ac-picture-thumb.png" width="200" height="200">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="0.00" ytl="36.63" xbr="200.00" ybr="161.06" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="6182-Download-Free-Air-conditioner-Models-2.jpg" width="1264" height="715">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="603.10" ytl="501.99" xbr="1143.48" ybr="669.53" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="605.46" ytl="275.45" xbr="1129.32" ybr="441.81" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="651.47" ytl="112.63" xbr="1042.01" ybr="277.81" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="216.10" ytl="44.20" xbr="961.78" ybr="198.76" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="217.28" ytl="175.16" xbr="601.92" ybr="603.45" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="61GabmzDVL._AC_UF10001000_QL80_.jpg" width="1000" height="747">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="140.37" ytl="199.53" xbr="872.57" ybr="628.50" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="61TYdWeHD3S._AC_UF8941000_QL80_.jpg" width="894" height="874">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="208.37" ytl="86.50" xbr="638.16" ybr="230.72" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="71VUJLjTu7L._AC_UF10001000_QL80_.jpg" width="1000" height="1000">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="139.44" ytl="168.32" xbr="858.91" ybr="429.04" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="71pFCyimqkL._AC_UF10001000_QL80_.jpg" width="1000" height="1000">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="88.28" ytl="379.54" xbr="863.86" ybr="645.21" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="7febc7c1be354842df07c8a4f41953bf.jpg" width="3024" height="4032">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="490.38" ytl="512.34" xbr="2592.88" ybr="2927.55" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="8-81295_window-lg-air-conditioner-hd-png-download.png" width="843" height="631">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="58.13" ytl="40.12" xbr="788.05" ybr="602.40" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="84306.jpg" width="2729" height="1535">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="607.26" ytl="320.52" xbr="2127.06" ybr="700.47" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="84319-Air20Conditioner20PPT20Free20Download.png" width="1280" height="720">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="209.25" ytl="184.18" xbr="538.48" ybr="386.16" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="692.93" ytl="199.62" xbr="797.48" ybr="250.71" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="AC-Central-Air-Conditioner-System-Air-Vent-Square-Air-Ceiling-4-Way-Diffuser.webp" width="550" height="412">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="0.02" ytl="19.74" xbr="550.00" ybr="331.12" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="Air-Conditioner-Png-Images-Pack-Free.jpg" width="962" height="600">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="271.58" ytl="39.60" xbr="814.16" ybr="207.92" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="250.79" ytl="375.25" xbr="528.02" ybr="520.79" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="Air_Conditioner.png" width="1040" height="780">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="21.18" ytl="38.55" xbr="543.75" ybr="205.88" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="601.67" ytl="38.55" xbr="999.40" ybr="364.20" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="21.18" ytl="257.37" xbr="536.03" ybr="423.41" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="22.47" ytl="442.71" xbr="560.49" ybr="715.58" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="C-18000BTU-24000BTU-36000BTU-50Hz-60Hz-Green-Air-Conditioning-Heating-System.jpg" width="550" height="550">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="77.63" ytl="228.75" xbr="371.69" ybr="334.93" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="FCMF20FCVFA_4.png" width="550" height="224">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="175.54" ytl="105.42" xbr="362.31" ybr="191.08" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="Gz94gs2ZFuP9.png" width="1260" height="945">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="25.70" ytl="45.97" xbr="180.08" ybr="117.70" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="231.54" ytl="50.65" xbr="331.34" ybr="91.19" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="350.05" ytl="47.53" xbr="468.57" ybr="63.12" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="493.52" ytl="44.41" xbr="730.55" ybr="130.18" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="769.53" ytl="44.41" xbr="1054.90" ybr="113.02" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="1101.69" ytl="47.53" xbr="1242.03" ybr="69.36" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="806.96" ytl="156.69" xbr="908.32" ybr="311.07" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="622.95" ytl="169.16" xbr="727.43" ybr="454.53" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="529.38" ytl="399.95" xbr="636.98" ybr="474.81" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="223.74" ytl="351.61" xbr="574.61" ybr="476.37" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="13.22" ytl="178.52" xbr="189.43" ybr="293.91" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="6.98" ytl="373.44" xbr="192.55" ybr="499.76" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="774.21" ytl="446.74" xbr="911.44" ybr="490.40" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="927.03" ytl="389.04" xbr="1081.41" ybr="481.04" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="1100.13" ytl="381.24" xbr="1252.95" ybr="484.16" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="1154.71" ytl="538.74" xbr="1179.66" ybr="554.34" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="1020.60" ytl="530.94" xbr="1064.26" ybr="635.42" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="877.13" ytl="549.66" xbr="966.02" ybr="615.15" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="752.38" ytl="565.25" xbr="863.10" ybr="601.12" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="560.57" ytl="588.64" xbr="635.42" ybr="616.71" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="321.98" ytl="544.98" xbr="530.94" ybr="655.70" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="17.90" ytl="548.10" xbr="298.59" ybr="741.46" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="16.34" ytl="760.18" xbr="287.68" ybr="861.54" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="334.46" ytl="794.48" xbr="518.47" ybr="855.30" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="554.34" ytl="707.16" xbr="732.11" ybr="780.45" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="897.40" ytl="647.90" xbr="1228.00" ybr="763.30" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="775.77" ytl="788.25" xbr="969.14" ybr="919.24" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="573.05" ytl="866.22" xbr="714.95" ybr="922.36" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="H5f73999ea6aa405688814a513ef2ee64Q.jpg" width="1000" height="1000">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="307.76" ytl="262.38" xbr="746.70" ybr="443.89" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="H945944f1bf0e4bd89062e9f0d0b86f88M.jpg_300x300.jpg" width="300" height="300">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="183.42" ytl="58.42" xbr="259.65" ybr="91.09" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="187.38" ytl="117.82" xbr="260.64" ybr="146.53" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="187.87" ytl="176.24" xbr="262.13" ybr="204.46" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="187.38" ytl="236.14" xbr="258.66" ybr="263.37" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="H9fe581eed9964360ba2b817bc1b27c6b5.jpg_300x300.jpg" width="300" height="300">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="80.94" ytl="140.59" xbr="212.62" ybr="199.50" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="Split-Air-Conditioner-PNG-Download-Image.png" width="2067" height="1181">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="333.81" ytl="320.56" xbr="1735.03" ybr="757.10" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="Split-Air-Conditioner-PNG-Free-Download.png" width="484" height="314">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="55.73" ytl="58.58" xbr="464.03" ybr="286.56" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="ac-png-imagesac-png-air-conditioner-png-images-clipart-free-download-11664625531ot8usdp5yv.png" width="480" height="480">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="79.62" ytl="238.43" xbr="446.36" ybr="365.17" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="ai-generated-8110912_640.jpg" width="640" height="591">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="111.74" ytl="250.13" xbr="498.91" ybr="547.58" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="air-conditioner-.jpg" width="970" height="615">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="266.35" ytl="84.79" xbr="867.14" ybr="213.58" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="air-conditioner-11530976242wdy55vfrby.png" width="840" height="859">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="13.91" ytl="152.39" xbr="742.50" ybr="727.90" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="air-conditioner-5976258-4946626.png" width="1500" height="1601">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="67.02" ytl="405.45" xbr="1427.60" ybr="1110.84" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="air-conditioner-6605973_640.jpg" width="640" height="427">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="44.85" ytl="40.48" xbr="564.86" ybr="342.06" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="air-conditioner-9055066-7480031.png" width="1500" height="1601">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="106.65" ytl="561.32" xbr="1406.47" ybr="1087.06" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="air-conditioner-central-conditioning-office-ceiling-41560458.jpg" width="1600" height="1157">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="350.39" ytl="321.75" xbr="1198.09" ybr="736.05" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="air-conditioner-icon-download_2687693.png" width="1024" height="1024">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="134.31" ytl="322.72" xbr="884.57" ybr="620.12" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="air-conditioner-set_1284-11781.jpg" width="626" height="626">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="49.07" ytl="69.21" xbr="577.96" ybr="237.59" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="air-conditioner-with-cold-wind_107791-2884.jpg" width="626" height="268">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="58.07" ytl="62.59" xbr="308.47" ybr="145.17" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="air-conditioning-decoration-interior_74190-6226.jpg" width="626" height="417">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="38.78" ytl="57.43" xbr="361.51" ybr="384.98" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="air-conditioning-on-ceiling-600w-1085442440.jpg" width="600" height="420">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="131.22" ytl="151.80" xbr="333.59" ybr="212.10" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="air_conditioner_PNG25.png" width="1045" height="358">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="21.59" ytl="18.92" xbr="997.22" ybr="319.53" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="air_conditioner_PNG45.png" width="1890" height="1769">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="29.90" ytl="106.68" xbr="1871.88" ybr="640.88" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="air_conditioner_PNG61.png" width="1240" height="684">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="40.42" ytl="308.15" xbr="802.30" ybr="641.12" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="air_conditioner_PNG63.png" width="1891" height="965">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="1891.00" ybr="965.00" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="air_conditioner_PNG8.png" width="900" height="900">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="20.75" ytl="173.66" xbr="874.42" ybr="713.66" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="alpicair_awmi_36vrdc1a_2013__vray.jpg" width="1200" height="1200">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="134.75" ytl="79.39" xbr="1066.24" ybr="374.04" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="134.75" ytl="435.82" xbr="1070.99" ybr="744.73" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="160.89" ytl="797.01" xbr="1040.10" ybr="1134.44" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="cassette-air-conditioner-on-ceiling-600nw-2180534085.jpg" width="600" height="400">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="192.41" ytl="94.59" xbr="381.72" ybr="213.40" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="ceiling-cassette-for-air-con.jpg" width="783" height="305">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="324.06" ytl="98.48" xbr="460.00" ybr="193.64" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="central-ac-374709103-njopk.jpg" width="500" height="281">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="158.28" ytl="132.40" xbr="327.99" ybr="213.09" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="central-air-conditioner-system-500x500.jpg" width="500" height="313">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="109.41" ytl="76.19" xbr="378.41" ybr="246.64" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="central-air-conditioning-office-ceiling-air-conditioner-190433488.jpg" width="1600" height="1290">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="166.79" ytl="243.68" xbr="1523.21" ybr="1127.52" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="central-air-conditioning-vents-coloured-260nw-1381278278.jpg" width="544" height="280">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="308.74" ytl="76.07" xbr="520.97" ybr="222.19" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="concealed-ducted-air-conditioner07121424479.jpg" width="800" height="400">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="62.74" ytl="26.71" xbr="790.70" ybr="378.03" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="daikin-cassette-ac-500x500.jpg" width="500" height="500">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="81.88" ytl="218.22" xbr="419.50" ybr="360.79" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="electronic_utensils_icons_airconditioner_fan_iron_cook_sketch_6840221.jpg" width="566" height="388">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="3.48" ytl="7.25" xbr="378.42" ybr="130.18" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="f637458e79e2e9bb222cbb5805810c2f.jpg" width="650" height="547">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="142.11" ytl="212.19" xbr="606.78" ybr="493.81" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="f88e6a01c770151cb8287044995d522a.jpg" width="736" height="736">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="70.89" ytl="391.23" xbr="736.00" ybr="640.45" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="happy-family-resting-under-air-600nw-2159582495.jpg" width="600" height="400">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="249.44" ytl="7.46" xbr="395.98" ybr="60.53" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="hd-ac-png-air-conditioner-png-images-clipart-11664625497zy0t29bonc.png" width="480" height="480">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="12.00" ytl="110.66" xbr="480.00" ybr="327.37" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="hite-color-background-ceiling-air-conditioners-split-systems-white-165825667.jpg" width="1600" height="1168">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="247.56" ytl="241.54" xbr="1073.25" ybr="951.60" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="hite-color-background-ceiling-air-conditioners-split-systems-white-1658256672.jpg" width="800" height="539">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="129.03" ytl="122.62" xbr="537.81" ybr="474.84" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="image17.jpeg" width="194" height="259">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="9.37" ytl="0.96" xbr="135.54" ybr="128.15" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="130.92" ytl="159.44" xbr="166.31" ybr="187.64" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="image19.jpeg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="35.72" ytl="100.19" xbr="188.10" ybr="164.35" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="image2.jpeg" width="173" height="291">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="20.63" ytl="39.71" xbr="149.13" ybr="111.16" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="57.51" ytl="210.27" xbr="113.41" ybr="227.56" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="67.31" ytl="258.68" xbr="100.73" ybr="266.74" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="image21.jpeg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="18.35" ytl="56.08" xbr="213.50" ybr="92.62" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="image22.jpeg" width="254" height="198">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="59.23" ytl="16.22" xbr="81.97" ybr="83.66" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="image23.jpeg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="14.34" ytl="49.85" xbr="192.56" ybr="157.67" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="image24.jpeg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="45.97" ytl="93.06" xbr="168.50" ybr="156.33" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="image25.jpeg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="22.80" ytl="42.72" xbr="55.33" ybr="59.65" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="94.54" ytl="35.59" xbr="132.85" ybr="53.41" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="170.28" ytl="36.48" xbr="204.14" ybr="54.30" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="155.57" ytl="75.24" xbr="195.23" ybr="104.20" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="89.19" ytl="178.16" xbr="152.46" ybr="200.00" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="image26.jpeg" width="259" height="194">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="49.46" ytl="24.72" xbr="208.51" ybr="178.00" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="image27.jpeg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="43.74" ytl="65.44" xbr="199.24" ybr="149.20" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="image28.jpeg" width="300" height="168">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="159.04" ytl="45.73" xbr="281.79" ybr="135.88" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="8.00" ytl="1.82" xbr="91.84" ybr="92.30" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="90.51" ytl="114.26" xbr="111.46" ybr="134.55" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="image29.jpeg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="140.43" ytl="41.83" xbr="196.12" ybr="67.22" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="139.98" ytl="89.06" xbr="194.78" ybr="109.55" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="141.76" ytl="132.27" xbr="197.01" ybr="155.44" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="143.10" ytl="173.26" xbr="194.78" ybr="198.21" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="image30.jpeg" width="224" height="224">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="21.58" ytl="89.80" xbr="159.52" ybr="135.48" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="image31.jpeg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="32.60" ytl="65.44" xbr="177.85" ybr="169.70" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="image33.jpeg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="25.92" ytl="35.14" xbr="209.04" ybr="117.12" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="images126.jpg" width="242" height="208">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="100.07" ytl="28.20" xbr="215.40" ybr="73.09" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="images134.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="25.92" ytl="13.31" xbr="200.57" ybr="73.02" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="25.48" ytl="80.59" xbr="201.47" ybr="141.18" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="29.93" ytl="150.09" xbr="194.78" ybr="213.36" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="images14.jpg" width="291" height="173">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="0.81" ytl="1.32" xbr="251.58" ybr="173.00" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="images156.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="52.65" ytl="119.35" xbr="225.00" ybr="173.71" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="images157.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="80.72" ytl="107.32" xbr="223.30" ybr="211.58" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="11.66" ytl="48.06" xbr="198.35" ybr="186.63" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="images160.jpg" width="221" height="228">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="28.62" ytl="39.90" xbr="203.79" ybr="110.79" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="images161.jpg" width="217" height="232">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="9.55" ytl="57.61" xbr="205.26" ybr="159.13" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="images163.jpg" width="245" height="206">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="7.75" ytl="14.84" xbr="211.71" ybr="88.27" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="images164.jpg" width="231" height="218">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="14.79" ytl="16.60" xbr="141.71" ybr="63.23" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="images172.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="22.36" ytl="21.33" xbr="197.01" ybr="100.19" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="22.36" ytl="121.13" xbr="197.46" ybr="200.44" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="images194.jpg" width="316" height="160">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="54.77" ytl="41.25" xbr="90.91" ybr="69.65" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="33.15" ytl="67.71" xbr="74.78" ybr="88.04" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="16.04" ytl="85.78" xbr="57.35" ybr="108.37" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="138.03" ytl="106.76" xbr="192.90" ybr="135.81" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="154.81" ytl="55.77" xbr="208.39" ybr="90.95" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="images195.jpg" width="275" height="183">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="40.64" ytl="11.21" xbr="166.74" ybr="65.21" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="images2.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="7.21" ytl="77.92" xbr="217.95" ybr="146.98" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="images202.jpg" width="259" height="194">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="10.28" ytl="13.20" xbr="238.09" ybr="168.44" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="images254.jpg" width="249" height="203">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="11.02" ytl="44.98" xbr="166.58" ybr="170.40" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="images256.jpg" width="217" height="232">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="57.79" ytl="16.72" xbr="151.51" ybr="48.88" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="images257.jpg" width="275" height="183">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="7.66" ytl="13.02" xbr="165.29" ybr="124.27" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="images260.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="37.95" ytl="34.70" xbr="182.75" ybr="79.70" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="images263.jpg" width="189" height="267">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="32.47" ytl="81.91" xbr="122.35" ybr="116.27" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="images265.jpg" width="282" height="179">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="76.19" ytl="24.44" xbr="252.36" ybr="62.72" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="images272.jpg" width="263" height="191">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="11.10" ytl="99.83" xbr="253.16" ybr="176.23" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="images275.jpg" width="259" height="195">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="26.65" ytl="65.61" xbr="232.07" ybr="136.66" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="images276.jpg" width="300" height="168">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="0.00" ytl="11.13" xbr="269.82" ybr="125.57" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="images277.jpg" width="302" height="167">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="7.20" ytl="17.85" xbr="295.89" ybr="158.72" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="images278.jpg" width="300" height="168">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="26.97" ytl="12.79" xbr="294.44" ybr="158.50" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="images279.jpg" width="290" height="174">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="290.00" ybr="174.00" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="images291.jpg" width="263" height="191">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="7.05" ytl="14.27" xbr="257.58" ybr="181.29" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="images293.jpg" width="318" height="159">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="53.50" ytl="54.59" xbr="283.83" ybr="123.57" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="images3.jpg" width="275" height="183">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="65.22" ytl="57.17" xbr="207.42" ybr="133.27" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="images304.jpg" width="259" height="194">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="86.10" ytl="9.21" xbr="231.32" ybr="75.59" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="images305.jpg" width="275" height="183">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="26.52" ytl="10.65" xbr="246.12" ybr="173.71" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="images310.jpg" width="389" height="129">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="17.56" ytl="10.64" xbr="376.53" ybr="116.48" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="images311.jpg" width="259" height="195">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="26.55" ytl="65.56" xbr="232.28" ybr="136.00" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="images313.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="30.07" ytl="130.16" xbr="225.00" ybr="191.11" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="images318.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="4.41" ytl="21.09" xbr="218.81" ybr="203.94" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="images320.jpg" width="281" height="180">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="0.57" ytl="89.79" xbr="159.68" ybr="172.77" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="images324.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="21.52" ytl="48.36" xbr="192.61" ybr="170.26" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="images327.jpg" width="217" height="232">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="80.84" ytl="50.69" xbr="147.55" ybr="71.64" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="images328.jpg" width="299" height="168">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="51.62" ytl="4.40" xbr="246.04" ybr="68.27" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="images329.jpg" width="346" height="145">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="44.63" ytl="22.08" xbr="302.02" ybr="121.72" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="images334.jpg" width="286" height="176">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="37.34" ytl="19.65" xbr="235.58" ybr="158.92" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="images335.jpg" width="296" height="170">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="18.86" ytl="18.58" xbr="82.28" ybr="50.90" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="113.51" ytl="18.98" xbr="176.93" ybr="49.28" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="205.90" ytl="18.58" xbr="268.10" ybr="50.49" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="205.49" ytl="90.08" xbr="279.82" ybr="118.36" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="110.96" ytl="89.27" xbr="184.49" ybr="115.93" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="16.44" ytl="87.66" xbr="89.55" ybr="115.53" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="images336.jpg" width="183" height="275">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="14.27" ytl="102.88" xbr="169.14" ybr="210.05" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="images337.jpg" width="259" height="194">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="4.97" ytl="5.52" xbr="134.97" ybr="50.70" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="149.72" ytl="2.30" xbr="248.37" ybr="90.35" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="5.43" ytl="62.69" xbr="133.13" ybr="104.64" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="5.89" ytl="112.93" xbr="140.04" ybr="174.71" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="images338.jpg" width="314" height="160">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="314.00" ybr="160.00" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="images342.jpg" width="275" height="183">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="14.78" ytl="91.53" xbr="260.03" ybr="166.76" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="images349.jpg" width="256" height="197">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="9.24" ytl="11.91" xbr="247.04" ybr="183.24" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="images350.jpg" width="275" height="183">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="139.14" ytl="73.70" xbr="223.94" ybr="111.97" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="images351.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="6.01" ytl="40.87" xbr="222.55" ybr="179.88" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="images353.jpg" width="207" height="243">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="5.23" ytl="56.28" xbr="197.52" ybr="191.40" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="images354.jpg" width="314" height="161">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="64.00" ytl="16.24" xbr="249.10" ybr="143.62" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="images356.jpg" width="265" height="190">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="52.95" ytl="9.02" xbr="210.97" ybr="54.17" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="images357.jpg" width="275" height="183">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="18.26" ytl="0.00" xbr="251.77" ybr="140.67" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="images359.jpg" width="366" height="138">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="12.68" ytl="9.59" xbr="345.95" ybr="118.13" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="images360.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="1.74" ytl="43.55" xbr="222.55" ybr="175.61" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="images362.jpg" width="272" height="185">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="272.00" ybr="185.00" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="images363.jpg" width="330" height="153">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="34.52" ytl="21.13" xbr="289.30" ybr="126.28" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="images372.jpg" width="264" height="191">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="34.10" ytl="12.00" xbr="230.62" ybr="75.09" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="images376.jpg" width="259" height="194">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="39.08" ytl="20.74" xbr="218.41" ybr="79.28" z_order="0">
+    </box>
+  </image>
+  <image id="155" name="images379.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="3.88" ytl="76.16" xbr="220.41" ybr="149.41" z_order="0">
+    </box>
+  </image>
+  <image id="156" name="images395.jpg" width="259" height="194">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="70.43" ytl="83.89" xbr="247.91" ybr="165.49" z_order="0">
+    </box>
+  </image>
+  <image id="157" name="images49.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="20.98" ytl="65.47" xbr="202.23" ybr="131.23" z_order="0">
+    </box>
+  </image>
+  <image id="158" name="images50.jpg" width="271" height="186">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="39.51" ytl="13.70" xbr="233.10" ybr="80.44" z_order="0">
+    </box>
+  </image>
+  <image id="159" name="images65.jpg" width="275" height="183">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="26.08" ytl="0.00" xbr="275.00" ybr="179.80" z_order="0">
+    </box>
+  </image>
+  <image id="160" name="images66.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="30.07" ytl="137.11" xbr="172.29" ybr="205.55" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="30.61" ytl="38.73" xbr="168.55" ybr="104.50" z_order="0">
+    </box>
+  </image>
+  <image id="161" name="images80.jpg" width="225" height="225">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="15.10" ytl="66.00" xbr="216.13" ybr="156.89" z_order="0">
+    </box>
+  </image>
+  <image id="162" name="images85.jpg" width="369" height="137">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="41.53" ytl="19.24" xbr="327.34" ybr="114.66" z_order="0">
+    </box>
+  </image>
+  <image id="163" name="lovepik-vertical-air-conditioner-png-image_401524432_wh1200.png" width="1200" height="1200">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="412.72" ytl="25.49" xbr="794.82" ybr="1188.90" z_order="0">
+    </box>
+  </image>
+  <image id="164" name="man-opening-ceiling-air-vent-600nw-1821588962.jpg" width="600" height="450">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="0.00" ytl="40.61" xbr="600.00" ybr="415.93" z_order="0">
+    </box>
+  </image>
+  <image id="165" name="mitsubishi-central-air-conditioner.jpg" width="500" height="500">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="0.00" ytl="105.76" xbr="500.00" ybr="393.29" z_order="0">
+    </box>
+  </image>
+  <image id="166" name="modern-air-conditioning-system-installed-260nw-436742728.jpg" width="393" height="280">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="0.00" ytl="71.88" xbr="264.89" ybr="194.97" z_order="0">
+    </box>
+  </image>
+  <image id="167" name="modern-lamp-light-white-ceiling-duct-air-conditioner-home-office_276947-1145.jpg" width="626" height="321">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="306.36" ytl="138.27" xbr="485.88" ybr="203.48" z_order="0">
+    </box>
+    <box label="AirConditioner" source="manual" occluded="0" xtl="74.59" ytl="231.10" xbr="131.36" ybr="256.41" z_order="0">
+    </box>
+  </image>
+  <image id="168" name="pexels-photo-16592625.jpeg" width="2048" height="3072">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="150.14" ytl="1138.53" xbr="1850.99" ybr="2284.60" z_order="0">
+    </box>
+  </image>
+  <image id="169" name="pngtree-air-conditioner-with-cold-wind-effect-png-image_3267128.jpg" width="360" height="360">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="23.75" ytl="74.40" xbr="321.45" ybr="171.06" z_order="0">
+    </box>
+  </image>
+  <image id="170" name="rn-lamp-light-on-white-ceiling-duct-air-conditioner-for-home-or-office-photo.jpg" width="2613" height="1960">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="290.38" ytl="283.86" xbr="1179.95" ybr="1024.39" z_order="0">
+    </box>
+  </image>
+  <image id="171" name="room-air-conditioner-system-daikin-panasonic-others.jpg" width="650" height="489">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="65.13" ytl="164.36" xbr="581.05" ybr="339.82" z_order="0">
+    </box>
+  </image>
+  <image id="172" name="samsung-air-conditioner-inverter-BYDyoX9-600.jpg" width="600" height="600">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="93.79" ytl="149.67" xbr="407.45" ybr="486.15" z_order="0">
+    </box>
+  </image>
+  <image id="173" name="senior-male-reaching-open-filter-260nw-106495442.jpg" width="332" height="280">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="75.74" ytl="8.00" xbr="256.71" ybr="161.70" z_order="0">
+    </box>
+  </image>
+  <image id="174" name="sr_series_asia_2023.jpg" width="1671" height="2362">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="368.88" ytl="757.84" xbr="773.00" ybr="892.55" z_order="0">
+    </box>
+  </image>
+  <image id="175" name="stock-photo-air-conditioning-on-ceiling-1085442440.jpg" width="1500" height="1101">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="251.20" ytl="357.16" xbr="900.03" ybr="524.60" z_order="0">
+    </box>
+  </image>
+  <image id="176" name="technician-service-removing-air-filter-air-conditioner-cleaning_35076-3618.jpg" width="626" height="417">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="44.77" ytl="31.20" xbr="566.97" ybr="194.70" z_order="0">
+    </box>
+  </image>
+  <image id="177" name="vrv_2.jpg" width="730" height="569">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="168.04" ytl="47.97" xbr="231.59" ybr="239.97" z_order="0">
+    </box>
+  </image>
+  <image id="178" name="woman-holding-remote-control-aimed-260nw-2120547839.jpg" width="399" height="280">
+    <box label="AirConditioner" source="manual" occluded="0" xtl="10.40" ytl="0.00" xbr="162.10" ybr="129.76" z_order="0">
+    </box>
+  </image>
+<image id="179" name="-Star-Energy-Saver-Fans-E28093-Air-JET-ZX-5-STAR-E28093-50W-E28093-White-2-2.jpg" width="800" height="800">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="250.13" ytl="47.49" xbr="590.73" ybr="174.22" z_order="0">
+    </box>
+  </image>
+  <image id="180" name="0030364_atomberg-renesa-24-bldc-ceiling-fans_600.jpeg" width="600" height="600">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="101.48" ytl="63.37" xbr="556.93" ybr="460.40" z_order="0">
+    </box>
+  </image>
+  <image id="181" name="1200px-Ventilatore_a_soffitto_28329.png" width="1199" height="801">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="19.28" ytl="37.65" xbr="1189.06" ybr="576.94" z_order="0">
+    </box>
+  </image>
+  <image id="182" name="17_08_2022-best_ceiling_fans_in_india_with_price_22986820.jpg" width="1200" height="675">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.23" ytl="147.60" xbr="524.86" ybr="528.54" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="727.59" ytl="18.39" xbr="1112.98" ybr="243.39" z_order="0">
+    </box>
+  </image>
+  <image id="183" name="232488-picture1-1.jpg" width="850" height="478">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="515.35" ytl="48.08" xbr="779.59" ybr="161.67" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="79.16" ytl="26.78" xbr="315.79" ybr="155.35" z_order="0">
+    </box>
+  </image>
+  <image id="184" name="269836_ja1eki.png" width="2400" height="2400">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="45.64" ytl="538.71" xbr="2350.59" ybr="1865.45" z_order="0">
+    </box>
+  </image>
+  <image id="185" name="270591_nltxtn.png" width="1600" height="1600">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="19.77" ytl="234.95" xbr="1577.52" ybr="1370.26" z_order="0">
+    </box>
+  </image>
+  <image id="186" name="5-6.jpg" width="1000" height="1000">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="190.59" ytl="74.26" xbr="806.11" ybr="407.59" z_order="0">
+    </box>
+  </image>
+  <image id="187" name="51NDouwbKGL._AC_UF8941000_QL80_.jpg" width="894" height="894">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="30.29" ytl="88.57" xbr="875.61" ybr="509.01" z_order="0">
+    </box>
+  </image>
+  <image id="188" name="51Nh5DNPfL._AC_UF8941000_QL80_.jpg" width="894" height="611">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="1.87" ytl="2.47" xbr="892.15" ybr="419.89" z_order="0">
+    </box>
+  </image>
+  <image id="189" name="51VEaaj7RL.jpg" width="1500" height="1500">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="38.37" ytl="351.48" xbr="1456.68" ybr="1168.32" z_order="0">
+    </box>
+  </image>
+  <image id="190" name="51eRlRen8DL.jpg" width="1500" height="1500">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="50.74" ytl="272.28" xbr="1451.73" ybr="1222.77" z_order="0">
+    </box>
+  </image>
+  <image id="191" name="633feddcdadde8347216c042-modern-ceiling-fan-with-5-reversible.jpg" width="1000" height="1000">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="5.78" ytl="23.10" xbr="992.57" ybr="501.65" z_order="0">
+    </box>
+  </image>
+  <image id="192" name="633ffeaa3812890f55464e5e-ciiaum-26-7-ceiling-fan-with-lights.jpg" width="1500" height="1500">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="117.57" ytl="116.34" xbr="1402.23" ybr="804.45" z_order="0">
+    </box>
+  </image>
+  <image id="193" name="645d26107f91d169366f4ca8-bedroom-ceiling-fan-with-led-lighting.jpg" width="750" height="750">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="167.70" ytl="111.39" xbr="586.01" ybr="335.40" z_order="0">
+    </box>
+  </image>
+  <image id="194" name="64779fed845c9d18c40f1dee-ceiling-fans-with-lights-flush-mount.jpg" width="750" height="750">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="192.45" ytl="101.48" xbr="557.55" ybr="289.60" z_order="0">
+    </box>
+  </image>
+  <image id="195" name="71MzcZp5NVL.jpg" width="1600" height="1600">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="101.62" ytl="216.47" xbr="1490.40" ybr="821.09" z_order="0">
+    </box>
+  </image>
+  <image id="196" name="74647737.jpg" width="1280" height="720">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="96.49" ytl="52.30" xbr="1257.17" ybr="607.15" z_order="0">
+    </box>
+  </image>
+  <image id="197" name="858135533_max.jpg" width="1000" height="1000">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="154.29" ytl="24.75" xbr="877.06" ybr="275.58" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="167.49" ytl="333.33" xbr="880.36" ybr="617.16" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="174.09" ytl="638.61" xbr="890.26" ybr="955.45" z_order="0">
+    </box>
+  </image>
+  <image id="198" name="8AaVUfGYSzdpR-xxlarge.jpg" width="800" height="800">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="25.71" ytl="150.46" xbr="772.90" ybr="600.63" z_order="0">
+    </box>
+  </image>
+  <image id="199" name="B0CJ8VGTBM_9014430492310007859_1707282033702.jpg" width="338" height="338">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="12.57" ytl="72.53" xbr="325.47" ybr="266.07" z_order="0">
+    </box>
+  </image>
+  <image id="200" name="Ceiling-Fans-E28093-Economy-Fans-E28093-Air-Flora-E28093-75-W-E28093-Brown-2-1.jpg" width="800" height="800">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="244.85" ytl="62.01" xbr="613.17" ybr="211.19" z_order="0">
+    </box>
+  </image>
+  <image id="201" name="Ceiling-fans.1.gif" width="2560" height="1440">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="1062.67" ytl="484.77" xbr="2448.02" ybr="1059.82" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="318.91" ytl="52.30" xbr="1511.78" ybr="617.84" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="188.22" ytl="888.73" xbr="1528.42" ybr="1373.48" z_order="0">
+    </box>
+  </image>
+  <image id="202" name="Chestnut-wood-with-logo-1-300x300.png" width="300" height="300">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.25" ytl="62.38" xbr="300.00" ybr="237.62" z_order="0">
+    </box>
+  </image>
+  <image id="203" name="Cieling-Fan.jpg" width="1000" height="563">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="402.90" ytl="62.69" xbr="757.80" ybr="206.69" z_order="0">
+    </box>
+  </image>
+  <image id="204" name="Crystal-06-1.jpg" width="1667" height="1667">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="296.96" ytl="152.54" xbr="1364.28" ybr="534.91" z_order="0">
+    </box>
+  </image>
+  <image id="205" name="Hero-314222824-Berkshire_Black_Downrod_Mount_Crystal_Chandelier_Fan.jpg" width="2000" height="2000">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="582.34" ytl="122.28" xbr="1423.93" ybr="600.49" z_order="0">
+    </box>
+  </image>
+  <image id="206" name="Image0-copy-0_aca9d6d2-b3ed-4c0b-9834-5d5c8a04f739.png" width="1500" height="1500">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="25.99" ytl="376.24" xbr="1476.48" ybr="1131.19" z_order="0">
+    </box>
+  </image>
+  <image id="207" name="Image0-copy-1_787cf3b8-72ff-4d6d-b9d6-99ed123ac895.png" width="1500" height="1500">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="28.46" ytl="381.19" xbr="1476.48" ybr="1126.24" z_order="0">
+    </box>
+  </image>
+  <image id="208" name="Jazz-06-1.webp" width="800" height="800">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="148.48" ytl="146.50" xbr="658.05" ybr="303.60" z_order="0">
+    </box>
+  </image>
+  <image id="209" name="MAGIC-AIR-copy-1-1024x1024.jpg" width="1024" height="1024">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="14.34" ytl="195.99" xbr="1007.92" ybr="733.34" z_order="0">
+    </box>
+  </image>
+  <image id="210" name="MINI-ELANTRA-copy.jpg" width="1500" height="1500">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="60.64" ytl="259.90" xbr="1451.73" ybr="1198.02" z_order="0">
+    </box>
+  </image>
+  <image id="211" name="MicrosoftTeams-image2028829.png" width="620" height="385">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="7.94" ytl="6.67" xbr="611.49" ybr="377.05" z_order="0">
+    </box>
+  </image>
+  <image id="212" name="Polar-Fans-1.jpg" width="857" height="612">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="3.33" ytl="4.04" xbr="513.33" ybr="214.09" z_order="0">
+    </box>
+  </image>
+  <image id="213" name="Regenta-02.jpg" width="1136" height="1136">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="32.72" ytl="329.84" xbr="1104.98" ybr="804.11" z_order="0">
+    </box>
+  </image>
+  <image id="214" name="SEA-cover.jpg" width="992" height="1403">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="94.24" ytl="526.71" xbr="962.43" ybr="1374.07" z_order="0">
+    </box>
+  </image>
+  <image id="215" name="U7d523d0a1dad453ab68a9453a2cb62deB.jpg" width="800" height="800">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="11.19" ytl="85.78" xbr="788.75" ybr="448.81" z_order="0">
+    </box>
+  </image>
+  <image id="216" name="White-Ceiling-Fan-Roundup.jpg" width="1000" height="1498">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="152.67" ytl="32.04" xbr="881.90" ybr="447.33" z_order="0">
+    </box>
+  </image>
+  <image id="217" name="ass-Lampshade-Modern-Dining-Room-Bedroom-Modern-Ceiling-Fan-Light-WH-CLL-23-.jpg" width="550" height="550">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="58.57" ytl="19.09" xbr="476.97" ybr="292.28" z_order="0">
+    </box>
+  </image>
+  <image id="218" name="aura-prime-antidust-ceiling-fan-crompton-original-imag5rpyyezfzhnr.jpeg" width="850" height="463">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="2.10" ytl="4.16" xbr="849.41" ybr="463.00" z_order="0">
+    </box>
+  </image>
+  <image id="219" name="best-ceiling-fans-with-light.jpg" width="1200" height="1200">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="74.16" ytl="221.88" xbr="1125.64" ybr="750.40" z_order="0">
+    </box>
+  </image>
+  <image id="220" name="best20ceiling20fans20in20India1674138041292.jpg" width="1200" height="675">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="217.44" ytl="7.25" xbr="680.80" ybr="166.53" z_order="0">
+    </box>
+  </image>
+  <image id="221" name="blackbeast_2.jpg" width="1001" height="1365">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="135.64" ytl="77.75" xbr="829.40" ybr="519.23" z_order="0">
+    </box>
+  </image>
+  <image id="222" name="brio-turbo-high-speed-decorative-50-1-ceiling-fan-600-candes-original-imaghrauuhzsujcy.jpeg" width="850" height="814">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="3.84" ytl="10.69" xbr="848.73" ybr="611.11" z_order="0">
+    </box>
+  </image>
+  <image id="223" name="brown-fan-1LL.jpg" width="1080" height="1080">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="446.52" ytl="26.81" xbr="924.14" ybr="322.65" z_order="0">
+    </box>
+  </image>
+  <image id="224" name="brownblack2_1.jpg" width="1200" height="1200">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="236.53" ytl="164.46" xbr="1070.40" ybr="809.80" z_order="0">
+    </box>
+  </image>
+  <image id="225" name="ceiling-fan-1.jpg" width="300" height="300">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.25" ytl="4.46" xbr="300.00" ybr="299.50" z_order="0">
+    </box>
+  </image>
+  <image id="226" name="ceiling-fan-design-shutterstock_1697959438-1200x700-compressed.jpg" width="1200" height="700">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="438.89" ytl="9.19" xbr="749.62" ybr="189.39" z_order="0">
+    </box>
+  </image>
+  <image id="227" name="ceiling-fan.jpg" width="500" height="500">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="18.56" ytl="98.18" xbr="479.79" ybr="413.37" z_order="0">
+    </box>
+  </image>
+  <image id="228" name="ceiling-fan2.jpeg" width="1080" height="1024">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="3.53" ytl="234.85" xbr="1080.00" ybr="888.80" z_order="0">
+    </box>
+  </image>
+  <image id="229" name="ceiling-fans-that-reflect-your-elegant-and-aristocratic-lifestyle.jpg" width="1200" height="1200">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="282.08" ytl="156.53" xbr="915.74" ybr="505.05" z_order="0">
+    </box>
+  </image>
+  <image id="230" name="ceiling_Fans_Buying_Guide_Cover.jpg" width="1070" height="458">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="371.51" ytl="58.70" xbr="1063.59" ybr="331.89" z_order="0">
+    </box>
+  </image>
+  <image id="231" name="cf3-10005_12__1.jpg" width="3000" height="3000">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="215.35" ytl="326.73" xbr="2804.45" ybr="1797.03" z_order="0">
+    </box>
+  </image>
+  <image id="232" name="cf8-10002_1_.jpg" width="3000" height="3000">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="230.20" ytl="153.46" xbr="2804.45" ybr="1569.31" z_order="0">
+    </box>
+  </image>
+  <image id="233" name="cf9-10011_1_.jpg" width="3000" height="3000">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="259.90" ytl="148.51" xbr="2646.04" ybr="1386.14" z_order="0">
+    </box>
+  </image>
+  <image id="234" name="cieling-fan_e7b6b24f8c8581831c9398e3e0a84cdd.jpg" width="790" height="538">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="1.75" xbr="790.00" ybr="532.65" z_order="0">
+    </box>
+  </image>
+  <image id="235" name="classical-collectionthe-fan-studio.jpg" width="537" height="608">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="112.02" ytl="0.00" xbr="495.28" ybr="165.60" z_order="0">
+    </box>
+  </image>
+  <image id="236" name="cover.PNG.jpg" width="1200" height="1140">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="36.58" ytl="308.60" xbr="1155.89" ybr="863.55" z_order="0">
+    </box>
+  </image>
+  <image id="237" name="cover.png" width="1200" height="1140">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="77.97" ytl="223.95" xbr="1193.51" ybr="940.68" z_order="0">
+    </box>
+  </image>
+  <image id="238" name="cover2.png" width="1200" height="1140">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="126.88" ytl="257.81" xbr="1154.01" ybr="895.53" z_order="0">
+    </box>
+  </image>
+  <image id="239" name="decorative-cover.png" width="630" height="468">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="75.96" ytl="125.85" xbr="570.99" ybr="422.40" z_order="0">
+    </box>
+  </image>
+  <image id="240" name="fan1.jpg" width="1024" height="1024">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="105.59" ytl="290.62" xbr="898.09" ybr="748.54" z_order="0">
+    </box>
+  </image>
+  <image id="241" name="fansio-wooden-1200-mm.jpg" width="1174" height="898">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="183.17" ytl="115.60" xbr="993.75" ybr="653.51" z_order="0">
+    </box>
+  </image>
+  <image id="242" name="fksbfan1200cb-ceiling-fan-flipkart-smartbuy-original-imag7yg4wgcsfm9f.jpeg" width="850" height="850">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="44.24" ytl="241.31" xbr="836.73" ybr="541.48" z_order="0">
+    </box>
+  </image>
+  <image id="243" name="florence-black-and-antique-brass-10854543-q7n1s.png" width="1204" height="650">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="17.14" xbr="1198.94" ybr="641.40" z_order="0">
+    </box>
+  </image>
+  <image id="244" name="halonix-turbon-vxi-1200-mm-brown-ceiling-fan-1.jpeg" width="832" height="776">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="32.52" ytl="128.05" xbr="832.00" ybr="691.48" z_order="0">
+    </box>
+  </image>
+  <image id="245" name="home-banner3.jpg" width="1350" height="715">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="410.07" ytl="1.72" xbr="890.28" ybr="212.92" z_order="0">
+    </box>
+  </image>
+  <image id="246" name="home-essentials-fan-banner-23.jpg" width="1767" height="930">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="667.19" ytl="15.42" xbr="1182.83" ybr="349.98" z_order="0">
+    </box>
+  </image>
+  <image id="247" name="image18.jpeg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="3.35" ytl="4.65" xbr="223.53" ybr="103.04" z_order="0">
+    </box>
+  </image>
+  <image id="248" name="image19.jpeg" width="224" height="224">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="43.09" ytl="21.44" xbr="172.61" ybr="95.52" z_order="0">
+    </box>
+  </image>
+  <image id="249" name="image23.jpeg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="50.65" ytl="33.36" xbr="175.40" ybr="100.64" z_order="0">
+    </box>
+  </image>
+  <image id="250" name="image26.jpeg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="1.64" ytl="24.45" xbr="221.74" ybr="126.93" z_order="0">
+    </box>
+  </image>
+  <image id="251" name="image28.jpeg" width="262" height="193">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="35.31" ytl="43.52" xbr="234.04" ybr="136.01" z_order="0">
+    </box>
+  </image>
+  <image id="252" name="image29.jpeg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="92.98" ytl="5.29" xbr="191.89" ybr="67.22" z_order="0">
+    </box>
+  </image>
+  <image id="253" name="image30.jpeg" width="300" height="168">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="151.55" ytl="18.75" xbr="246.03" ybr="54.68" z_order="0">
+    </box>
+  </image>
+  <image id="254" name="images104.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="139.31" ytl="44.50" xbr="225.00" ybr="86.38" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="35.99" xbr="74.75" ybr="84.11" z_order="0">
+    </box>
+  </image>
+  <image id="255" name="images112.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="75.15" ytl="3.96" xbr="159.36" ybr="70.34" z_order="0">
+    </box>
+  </image>
+  <image id="256" name="images113.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="15.01" ytl="0.00" xbr="225.00" ybr="120.69" z_order="0">
+    </box>
+  </image>
+  <image id="257" name="images12.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="31.58" xbr="225.00" ybr="158.11" z_order="0">
+    </box>
+  </image>
+  <image id="258" name="images13.jpg" width="275" height="183">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="10.38" ytl="27.84" xbr="261.14" ybr="147.79" z_order="0">
+    </box>
+  </image>
+  <image id="259" name="images130.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="49.31" ytl="9.75" xbr="199.46" ybr="93.06" z_order="0">
+    </box>
+  </image>
+  <image id="260" name="images131.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="48.87" ytl="3.96" xbr="189.66" ybr="101.98" z_order="0">
+    </box>
+  </image>
+  <image id="261" name="images137.jpg" width="291" height="173">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="62.99" ytl="25.65" xbr="223.66" ybr="65.39" z_order="0">
+    </box>
+  </image>
+  <image id="262" name="images143.jpg" width="275" height="183">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="206.80" ybr="144.10" z_order="0">
+    </box>
+  </image>
+  <image id="263" name="images170.jpg" width="284" height="177">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="61.96" ytl="5.57" xbr="212.68" ybr="77.77" z_order="0">
+    </box>
+  </image>
+  <image id="264" name="images171.jpg" width="278" height="181">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="134.21" ytl="6.40" xbr="266.11" ybr="57.65" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="136.72" ytl="106.75" xbr="263.60" ybr="161.23" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="11.27" ytl="11.77" xbr="138.15" ybr="90.63" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="14.86" ytl="103.53" xbr="126.68" ybr="155.86" z_order="0">
+    </box>
+  </image>
+  <image id="265" name="images173.jpg" width="259" height="194">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="81.70" ytl="8.70" xbr="186.57" ybr="59.41" z_order="0">
+    </box>
+  </image>
+  <image id="266" name="images186.jpg" width="300" height="168">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="180.52" ytl="16.13" xbr="275.07" ybr="56.90" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="28.46" ytl="10.10" xbr="111.30" ybr="54.01" z_order="0">
+    </box>
+  </image>
+  <image id="267" name="images189.jpg" width="275" height="183">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="55.02" xbr="275.00" ybr="183.00" z_order="0">
+    </box>
+  </image>
+  <image id="268" name="images202.jpg" width="299" height="168">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="298.59" ybr="167.45" z_order="0">
+    </box>
+  </image>
+  <image id="269" name="images203.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="21.24" ytl="21.78" xbr="183.42" ybr="155.44" z_order="0">
+    </box>
+  </image>
+  <image id="270" name="images209.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="28.37" ytl="60.99" xbr="188.77" ybr="175.94" z_order="0">
+    </box>
+  </image>
+  <image id="271" name="images21.jpg" width="275" height="183">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="8.93" ytl="24.58" xbr="266.58" ybr="159.02" z_order="0">
+    </box>
+  </image>
+  <image id="272" name="images214.jpg" width="225" height="224">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="64.65" ytl="40.07" xbr="141.38" ybr="60.03" z_order="0">
+    </box>
+  </image>
+  <image id="273" name="images234.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="71.59" ytl="18.66" xbr="174.96" ybr="60.09" z_order="0">
+    </box>
+  </image>
+  <image id="274" name="images235.jpg" width="444" height="113">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="80.83" ytl="17.67" xbr="171.98" ybr="66.19" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="288.97" ytl="13.59" xbr="381.92" ybr="51.22" z_order="0">
+    </box>
+  </image>
+  <image id="275" name="images237.jpg" width="259" height="194">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="27.38" ytl="46.62" xbr="146.85" ybr="110.78" z_order="0">
+    </box>
+  </image>
+  <image id="276" name="images241.jpg" width="444" height="113">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="147.04" ytl="0.00" xbr="311.19" ybr="86.59" z_order="0">
+    </box>
+  </image>
+  <image id="277" name="images242.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="10.10" ytl="48.96" xbr="214.61" ybr="113.56" z_order="0">
+    </box>
+  </image>
+  <image id="278" name="images246.jpg" width="309" height="163">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="94.19" ytl="21.57" xbr="204.26" ybr="49.65" z_order="0">
+    </box>
+  </image>
+  <image id="279" name="images248.jpg" width="309" height="163">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="118.72" ytl="25.44" xbr="221.04" ybr="53.20" z_order="0">
+    </box>
+  </image>
+  <image id="280" name="images26.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="143.32" ybr="130.05" z_order="0">
+    </box>
+  </image>
+  <image id="281" name="images27.jpg" width="300" height="168">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="97.66" ytl="15.75" xbr="185.48" ybr="57.34" z_order="0">
+    </box>
+  </image>
+  <image id="282" name="images274.jpg" width="275" height="183">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="85.39" ytl="1.39" xbr="203.89" ybr="43.06" z_order="0">
+    </box>
+  </image>
+  <image id="283" name="images280.jpg" width="318" height="159">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="166.99" ytl="31.21" xbr="305.99" ybr="132.86" z_order="0">
+    </box>
+  </image>
+  <image id="284" name="images282.jpg" width="286" height="176">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="93.40" ytl="12.65" xbr="169.38" ybr="54.48" z_order="0">
+    </box>
+  </image>
+  <image id="285" name="images308.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="80.59" xbr="225.00" ybr="156.78" z_order="0">
+    </box>
+  </image>
+  <image id="286" name="images319.jpg" width="224" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="5.29" xbr="224.00" ybr="145.19" z_order="0">
+    </box>
+  </image>
+  <image id="287" name="images320.jpg" width="224" height="224">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="6.27" ytl="32.09" xbr="216.52" ybr="107.49" z_order="0">
+    </box>
+  </image>
+  <image id="288" name="images332.jpg" width="300" height="168">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="23.47" ytl="20.41" xbr="294.60" ybr="140.17" z_order="0">
+    </box>
+  </image>
+  <image id="289" name="images339.jpg" width="248" height="203">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="50.29" ytl="6.75" xbr="196.61" ybr="88.36" z_order="0">
+    </box>
+  </image>
+  <image id="290" name="images34.jpg" width="267" height="189">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="34.39" ytl="42.63" xbr="231.63" ybr="109.99" z_order="0">
+    </box>
+  </image>
+  <image id="291" name="images346.jpg" width="266" height="190">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="113.30" ytl="0.50" xbr="223.91" ybr="43.02" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="32.78" ytl="35.12" xbr="99.75" ybr="60.70" z_order="0">
+    </box>
+  </image>
+  <image id="292" name="images360.jpg" width="275" height="183">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="82.85" ytl="33.64" xbr="227.44" ybr="102.13" z_order="0">
+    </box>
+  </image>
+  <image id="293" name="images362.jpg" width="192" height="262">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="27.18" xbr="192.00" ybr="99.30" z_order="0">
+    </box>
+  </image>
+  <image id="294" name="images369.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="19.46" ytl="89.06" xbr="200.80" ybr="140.29" z_order="0">
+    </box>
+  </image>
+  <image id="295" name="images372.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="68.03" ytl="26.68" xbr="225.00" ybr="165.69" z_order="0">
+    </box>
+  </image>
+  <image id="296" name="images376.jpg" width="194" height="259">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="37.37" xbr="194.00" ybr="210.72" z_order="0">
+    </box>
+  </image>
+  <image id="297" name="images378.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="15.90" ytl="37.82" xbr="104.56" ybr="122.92" z_order="0">
+    </box>
+  </image>
+  <image id="298" name="images38.jpg" width="194" height="259">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="131.69" ytl="179.95" xbr="179.90" ybr="210.72" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="62.96" ytl="67.63" xbr="164.00" ybr="122.00" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="153.23" ytl="209.70" xbr="184.51" ybr="236.88" z_order="0">
+    </box>
+  </image>
+  <image id="299" name="images388.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="76.94" ytl="0.00" xbr="225.00" ybr="55.19" z_order="0">
+    </box>
+  </image>
+  <image id="300" name="images396.jpg" width="259" height="194">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="2.40" ytl="0.00" xbr="259.00" ybr="149.58" z_order="0">
+    </box>
+  </image>
+  <image id="301" name="images405.jpg" width="272" height="185">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="272.00" ybr="185.00" z_order="0">
+    </box>
+  </image>
+  <image id="302" name="images410.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="52.52" xbr="225.00" ybr="225.00" z_order="0">
+    </box>
+  </image>
+  <image id="303" name="images411.jpg" width="275" height="183">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="76.33" ytl="11.54" xbr="186.13" ybr="39.80" z_order="0">
+    </box>
+  </image>
+  <image id="304" name="images414.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="89.86" ytl="111.78" xbr="218.17" ybr="212.03" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="89.41" ytl="3.06" xbr="218.17" ybr="103.76" z_order="0">
+    </box>
+  </image>
+  <image id="305" name="images440.jpg" width="310" height="163">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="68.37" ytl="9.30" xbr="220.40" ybr="68.37" z_order="0">
+    </box>
+  </image>
+  <image id="306" name="images461.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="21.69" ytl="80.14" xbr="203.03" ybr="180.39" z_order="0">
+    </box>
+  </image>
+  <image id="307" name="images47.jpg" width="275" height="183">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="23.42" ytl="22.41" xbr="268.39" ybr="152.50" z_order="0">
+    </box>
+  </image>
+  <image id="308" name="images472.jpg" width="310" height="162">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="134.35" ytl="2.99" xbr="304.69" ybr="138.68" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="17.26" ytl="0.00" xbr="130.18" ybr="62.01" z_order="0">
+    </box>
+  </image>
+  <image id="309" name="images476.jpg" width="177" height="285">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="8.99" ytl="116.72" xbr="68.24" ybr="146.07" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="5.60" ytl="181.62" xbr="65.99" ybr="208.71" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="68.24" ytl="213.23" xbr="116.78" ybr="240.32" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="113.39" ytl="191.22" xbr="170.39" ybr="217.18" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="111.14" ytl="242.01" xbr="176.04" ybr="269.10" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="2.78" ytl="237.49" xbr="66.55" ybr="264.58" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="102.67" ytl="5.54" xbr="165.31" ybr="36.02" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="9.55" ytl="61.42" xbr="70.50" ybr="81.73" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="99.28" ytl="53.51" xbr="159.11" ybr="77.78" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="119.04" ytl="121.80" xbr="173.21" ybr="148.33" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="59.21" ytl="140.99" xbr="120.17" ybr="167.51" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="14.01" ytl="8.37" xbr="87.94" ybr="34.89" z_order="0">
+    </box>
+  </image>
+  <image id="310" name="images479.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="55.55" ytl="11.08" xbr="153.12" ybr="71.68" z_order="0">
+    </box>
+  </image>
+  <image id="311" name="images480.jpg" width="220" height="132">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="16.06" ytl="24.14" xbr="193.28" ybr="60.21" z_order="0">
+    </box>
+  </image>
+  <image id="312" name="images481.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="82.73" ytl="134.50" xbr="127.28" ybr="200.00" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="20.35" ytl="22.22" xbr="200.80" ybr="126.48" z_order="0">
+    </box>
+  </image>
+  <image id="313" name="images484.jpg" width="225" height="224">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="222.11" ybr="155.40" z_order="0">
+    </box>
+  </image>
+  <image id="314" name="images488.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="35.50" ytl="37.37" xbr="225.00" ybr="225.00" z_order="0">
+    </box>
+  </image>
+  <image id="315" name="images494.jpg" width="266" height="190">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="12.47" ytl="0.00" xbr="196.82" ybr="97.57" z_order="0">
+    </box>
+  </image>
+  <image id="316" name="images52.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="42.63" ytl="0.00" xbr="219.70" ybr="100.64" z_order="0">
+    </box>
+  </image>
+  <image id="317" name="images535.jpg" width="259" height="194">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="104.59" ytl="0.00" xbr="166.06" ybr="42.01" z_order="0">
+    </box>
+  </image>
+  <image id="318" name="images539.jpg" width="304" height="166">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="119.33" ytl="33.30" xbr="193.95" ybr="64.20" z_order="0">
+    </box>
+  </image>
+  <image id="319" name="images540.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="69.36" ytl="16.43" xbr="164.71" ybr="47.62" z_order="0">
+    </box>
+  </image>
+  <image id="320" name="images55.jpg" width="275" height="183">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="48.06" ytl="34.00" xbr="207.87" ybr="133.66" z_order="0">
+    </box>
+  </image>
+  <image id="321" name="images554.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="72.04" ytl="5.29" xbr="154.91" ybr="65.00" z_order="0">
+    </box>
+  </image>
+  <image id="322" name="images56.jpg" width="264" height="191">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="166.66" ytl="25.28" xbr="240.79" ybr="70.29" z_order="0">
+    </box>
+  </image>
+  <image id="323" name="images565.jpg" width="318" height="159">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="6.20" xbr="272.54" ybr="124.09" z_order="0">
+    </box>
+  </image>
+  <image id="324" name="images575.jpg" width="264" height="191">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="103.50" ytl="28.31" xbr="159.47" ybr="64.24" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="188.22" ytl="33.60" xbr="255.92" ybr="60.83" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="7.43" ytl="32.09" xbr="75.51" ybr="63.10" z_order="0">
+    </box>
+  </image>
+  <image id="325" name="images582.jpg" width="266" height="190">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="62.88" ytl="0.00" xbr="241.22" ybr="80.27" z_order="0">
+    </box>
+  </image>
+  <image id="326" name="images596.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="54.21" ytl="5.29" xbr="170.50" ybr="62.32" z_order="0">
+    </box>
+  </image>
+  <image id="327" name="images597.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="40.85" ytl="20.89" xbr="182.98" ybr="63.66" z_order="0">
+    </box>
+  </image>
+  <image id="328" name="images60.jpg" width="231" height="219">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="48.94" xbr="231.00" ybr="191.61" z_order="0">
+    </box>
+  </image>
+  <image id="329" name="images605.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="51.09" ytl="29.80" xbr="171.84" ybr="95.29" z_order="0">
+    </box>
+  </image>
+  <image id="330" name="images612.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="84.51" ytl="16.43" xbr="149.56" ybr="61.88" z_order="0">
+    </box>
+  </image>
+  <image id="331" name="images613.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="25.25" ytl="0.00" xbr="177.18" ybr="84.60" z_order="0">
+    </box>
+  </image>
+  <image id="332" name="images630.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="147.42" xbr="162.93" ybr="217.37" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="105.01" ytl="28.02" xbr="225.00" ybr="105.09" z_order="0">
+    </box>
+  </image>
+  <image id="333" name="images636.jpg" width="266" height="190">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="102.39" ytl="6.15" xbr="266.00" ybr="99.45" z_order="0">
+    </box>
+  </image>
+  <image id="334" name="images639.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="40.85" ytl="21.33" xbr="184.31" ybr="58.76" z_order="0">
+    </box>
+  </image>
+  <image id="335" name="images64.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="16.79" ytl="18.21" xbr="210.15" ybr="121.13" z_order="0">
+    </box>
+  </image>
+  <image id="336" name="images642.jpg" width="295" height="171">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="120.79" ytl="14.83" xbr="178.35" ybr="46.66" z_order="0">
+    </box>
+  </image>
+  <image id="337" name="images646.jpg" width="287" height="175">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="165.73" ybr="122.62" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="120.68" ytl="52.28" xbr="287.00" ybr="175.00" z_order="0">
+    </box>
+  </image>
+  <image id="338" name="images658.jpg" width="259" height="194">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="86.15" ytl="18.19" xbr="160.29" ybr="64.68" z_order="0">
+    </box>
+  </image>
+  <image id="339" name="images668.jpg" width="306" height="165">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="306.00" ybr="111.38" z_order="0">
+    </box>
+  </image>
+  <image id="340" name="images676.jpg" width="220" height="165">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="220.00" ybr="123.79" z_order="0">
+    </box>
+  </image>
+  <image id="341" name="images678.jpg" width="220" height="165">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="92.75" xbr="220.00" ybr="158.43" z_order="0">
+    </box>
+  </image>
+  <image id="342" name="images69.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="62.23" ytl="3.96" xbr="183.87" ybr="58.76" z_order="0">
+    </box>
+  </image>
+  <image id="343" name="images693.jpg" width="300" height="168">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="182.16" ytl="3.78" xbr="279.30" ybr="60.00" z_order="0">
+    </box>
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="57.67" xbr="131.59" ybr="130.86" z_order="0">
+    </box>
+  </image>
+  <image id="344" name="images698.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="3.42" ytl="43.61" xbr="204.81" ybr="185.29" z_order="0">
+    </box>
+  </image>
+  <image id="345" name="images7.jpg" width="259" height="194">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="51.58" ytl="17.81" xbr="219.84" ybr="121.92" z_order="0">
+    </box>
+  </image>
+  <image id="346" name="images720.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="44.41" ytl="0.39" xbr="191.00" ybr="76.13" z_order="0">
+    </box>
+  </image>
+  <image id="347" name="images721.jpg" width="175" height="288">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="15.74" ytl="6.45" xbr="140.64" ybr="106.82" z_order="0">
+    </box>
+  </image>
+  <image id="348" name="images728.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="17.68" ytl="0.00" xbr="212.83" ybr="53.41" z_order="0">
+    </box>
+  </image>
+  <image id="349" name="images735.jpg" width="300" height="168">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="103.65" ytl="0.00" xbr="170.85" ybr="39.37" z_order="0">
+    </box>
+  </image>
+  <image id="350" name="images739.jpg" width="262" height="192">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="262.00" ybr="192.00" z_order="0">
+    </box>
+  </image>
+  <image id="351" name="images749.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="3.87" ytl="24.45" xbr="219.51" ybr="210.24" z_order="0">
+    </box>
+  </image>
+  <image id="352" name="images750.jpg" width="224" height="224">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="23.57" ytl="53.82" xbr="193.90" ybr="96.41" z_order="0">
+    </box>
+  </image>
+  <image id="353" name="images751.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="219.96" ybr="103.76" z_order="0">
+    </box>
+  </image>
+  <image id="354" name="images78.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="225.00" ybr="225.00" z_order="0">
+    </box>
+  </image>
+  <image id="355" name="images96.jpg" width="225" height="225">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="2.53" ytl="60.09" xbr="223.97" ybr="142.52" z_order="0">
+    </box>
+  </image>
+  <image id="356" name="images99.jpg" width="259" height="194">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="123.41" ytl="33.18" xbr="255.95" ybr="90.42" z_order="0">
+    </box>
+  </image>
+  <image id="357" name="pexels-curtis-adams-12119267_1709556649682_1709556656233.jpg" width="549" height="309">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="223.17" ytl="16.41" xbr="336.98" ybr="82.50" z_order="0">
+    </box>
+  </image>
+  <image id="358" name="pexels-curtis-adams-3935353_1708517701534_1708517730081.jpg" width="1600" height="900">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="810.08" ytl="96.85" xbr="1312.65" ybr="289.33" z_order="0">
+    </box>
+  </image>
+  <image id="359" name="renesa_smart_pearl_white_amz_2_.jpg" width="1200" height="1200">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="90.55" ytl="195.58" xbr="1107.58" ybr="851.43" z_order="0">
+    </box>
+  </image>
+  <image id="360" name="sdfg_1709011408563_1709011417288.jpg" width="600" height="337">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="45.53" ytl="7.23" xbr="509.99" ybr="332.88" z_order="0">
+    </box>
+  </image>
+  <image id="361" name="stallion-1320mm-wide-tipped-and-electroplated-finish-blades-ceiling-fan-orient-electric-1.png" width="3000" height="3000">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="137.72" ytl="762.67" xbr="2864.46" ybr="2099.31" z_order="0">
+    </box>
+  </image>
+  <image id="362" name="subaris-underlight-wooden-finish-aluminium-5-blade-premium-ceiling-fan-orient-electric-4.jpg" width="3000" height="3000">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="2953.56" ybr="1368.61" z_order="0">
+    </box>
+  </image>
+  <image id="363" name="usha-fan.jpg" width="1000" height="1000">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="12.18" ytl="297.72" xbr="1000.00" ybr="691.78" z_order="0">
+    </box>
+  </image>
+  <image id="364" name="wallmantra-ceiling-fans-elitefusion-blue-white-wave-printed-ceiling-fan-32999375732902.jpg" width="1200" height="1200">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="142.83" ytl="26.87" xbr="1157.48" ybr="1008.26" z_order="0">
+    </box>
+  </image>
+  <image id="365" name="wallmantra-ceiling-fans-elitefusion-blue-white-wave-printed-ceiling-fan-33451291738278.jpg" width="1000" height="1000">
+    <box label="ceiling fan" source="manual" occluded="0" xtl="43.86" ytl="28.42" xbr="974.55" ybr="951.19" z_order="0">
+    </box>
+  </image>
+<image id="366" name="1064870850_4a5a180c10_z.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="474.81" ytl="130.00" xbr="640.00" ybr="455.61" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="77.94" ytl="82.49" xbr="338.23" ybr="444.72" z_order="0">
+    </box>
+  </image>
+  <image id="367" name="1388870837_0418fa153e_z - Copy.jpg" width="640" height="427">
+    <box label="Human" source="manual" occluded="0" xtl="42.69" ytl="5.83" xbr="372.37" ybr="376.36" z_order="0">
+    </box>
+  </image>
+  <image id="368" name="1399868308_0f50020e67_z - Copy.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="115.55" ytl="0.00" xbr="512.42" ybr="480.00" z_order="0">
+    </box>
+  </image>
+  <image id="369" name="1464941839_85ca04693d_z - Copy.jpg" width="426" height="640">
+    <box label="Human" source="manual" occluded="0" xtl="20.84" ytl="13.58" xbr="396.92" ybr="625.87" z_order="0">
+    </box>
+  </image>
+  <image id="370" name="1569414435_9f984f1d01_z - Copy.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="101.69" ytl="18.16" xbr="525.28" ybr="422.95" z_order="0">
+    </box>
+  </image>
+  <image id="371" name="1727325772_20340e8904_z - Copy.jpg" width="480" height="640">
+    <box label="Human" source="manual" occluded="0" xtl="0.00" ytl="30.73" xbr="449.04" ybr="631.15" z_order="0">
+    </box>
+  </image>
+  <image id="372" name="1861891375_4f1341add0_z - Copy.jpg" width="428" height="639">
+    <box label="Human" source="manual" occluded="0" xtl="115.79" ytl="135.42" xbr="428.00" ybr="578.11" z_order="0">
+    </box>
+  </image>
+  <image id="373" name="2007367989_22995e050a_z - Copy.jpg" width="480" height="640">
+    <box label="Human" source="manual" occluded="0" xtl="88.80" ytl="111.23" xbr="426.61" ybr="606.07" z_order="0">
+    </box>
+  </image>
+  <image id="374" name="2058678936_7678fb5383_z - Copy.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="104.66" ytl="1.34" xbr="360.00" ybr="454.62" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="303.59" ytl="9.26" xbr="624.25" ybr="452.64" z_order="0">
+    </box>
+  </image>
+  <image id="375" name="2086838441_82d5131761_z - Copy.jpg" width="640" height="429">
+    <box label="Human" source="manual" occluded="0" xtl="142.99" ytl="73.62" xbr="327.79" ybr="397.72" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="392.80" ytl="194.34" xbr="610.10" ybr="429.00" z_order="0">
+    </box>
+  </image>
+  <image id="376" name="20933565078_93dd1d98d7_z.jpg" width="640" height="427">
+    <box label="Human" source="manual" occluded="0" xtl="138.35" ytl="40.19" xbr="474.52" ybr="396.79" z_order="0">
+    </box>
+  </image>
+  <image id="377" name="2097617547_4fb407625b_z - Copy.jpg" width="480" height="640">
+    <box label="Human" source="manual" occluded="0" xtl="79.56" ytl="75.60" xbr="437.17" ybr="602.12" z_order="0">
+    </box>
+  </image>
+  <image id="378" name="2146930057_a14187a4eb_z - Copy.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="188.79" ytl="39.94" xbr="606.44" ybr="428.89" z_order="0">
+    </box>
+  </image>
+  <image id="379" name="21930029260_908c40d1ed_z.jpg" width="640" height="427">
+    <box label="Human" source="manual" occluded="0" xtl="8.33" ytl="55.05" xbr="191.28" ybr="393.08" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="215.43" ytl="32.76" xbr="440.16" ybr="423.72" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="485.66" ytl="0.00" xbr="640.00" ybr="403.29" z_order="0">
+    </box>
+  </image>
+  <image id="380" name="21943462402_f22693573a_z.jpg" width="640" height="427">
+    <box label="Human" source="manual" occluded="0" xtl="270.22" ytl="158.13" xbr="336.15" ybr="227.78" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="268.36" ytl="228.71" xbr="325.01" ybr="381.00" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="351.94" ytl="131.20" xbr="438.30" ybr="386.58" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="328.72" ytl="190.60" xbr="374.22" ybr="360.57" z_order="0">
+    </box>
+  </image>
+  <image id="381" name="22126034221_0f002e33ed_z.jpg" width="640" height="427">
+    <box label="Human" source="manual" occluded="0" xtl="310.89" ytl="18.27" xbr="593.20" ybr="424.09" z_order="0">
+    </box>
+  </image>
+  <image id="382" name="2266031414_b71ff26e24_z - Copy.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="111.40" ytl="6.68" xbr="432.10" ybr="477.78" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="461.74" ytl="150.19" xbr="577.54" ybr="476.79" z_order="0">
+    </box>
+  </image>
+  <image id="383" name="2266836251_8708d1a1de_z - Copy.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="289.54" ytl="39.34" xbr="608.22" ybr="463.92" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="115.35" ytl="43.30" xbr="322.20" ybr="456.99" z_order="0">
+    </box>
+  </image>
+  <image id="384" name="2367393600_cdf6bba1f9_z - Copy.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="43.11" ytl="0.75" xbr="313.29" ybr="480.00" z_order="0">
+    </box>
+  </image>
+  <image id="385" name="2395122636_860e2dc95b_z - Copy.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="101.83" ytl="0.00" xbr="331.05" ybr="471.78" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="301.36" ytl="51.36" xbr="640.00" ybr="480.00" z_order="0">
+    </box>
+  </image>
+  <image id="386" name="2435863277_9bdc64f12b_z.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="283.54" ytl="0.00" xbr="606.58" ybr="480.00" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="68.58" ytl="56.11" xbr="274.04" ybr="480.00" z_order="0">
+    </box>
+  </image>
+  <image id="387" name="2436122846_c0a366b231_z.jpg" width="640" height="427">
+    <box label="Human" source="manual" occluded="0" xtl="323.72" ytl="35.99" xbr="547.72" ybr="348.02" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="168.82" ytl="0.00" xbr="346.01" ybr="427.00" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="48.47" ytl="0.00" xbr="138.74" ybr="186.43" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="554.40" ytl="0.00" xbr="640.00" ybr="215.41" z_order="0">
+    </box>
+  </image>
+  <image id="388" name="3269525291_8dc2564b46_z.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="181.40" ytl="172.50" xbr="360.74" ybr="450.40" z_order="0">
+    </box>
+  </image>
+  <image id="389" name="3281800539_cf807bd873_z.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="260.98" ytl="0.00" xbr="522.25" ybr="363.71" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="21.07" ytl="52.55" xbr="264.54" ybr="480.00" z_order="0">
+    </box>
+  </image>
+  <image id="390" name="359702368_937d3aed41_z.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="10.39" ytl="121.43" xbr="184.97" ybr="472.97" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="188.53" ytl="253.30" xbr="353.61" ybr="480.00" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="278.79" ytl="5.04" xbr="613.70" ybr="292.40" z_order="0">
+    </box>
+  </image>
+  <image id="391" name="417675498_621751c1bf_z.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="213.47" ytl="57.30" xbr="309.67" ybr="148.74" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="219.41" ytl="166.56" xbr="291.85" ybr="328.08" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="281.17" ytl="136.87" xbr="344.11" ybr="263.94" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="340.55" ytl="128.56" xbr="431.99" ybr="304.32" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="404.68" ytl="25.23" xbr="466.44" ybr="101.24" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="472.37" ytl="15.73" xbr="546.01" ybr="186.75" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="409.43" ytl="104.80" xbr="506.81" ybr="292.45" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="518.69" ytl="85.80" xbr="640.00" ybr="298.39" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="21.07" ytl="142.81" xbr="136.27" ybr="347.08" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="133.90" ytl="122.62" xbr="209.91" ybr="300.76" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="60.27" ytl="60.86" xbr="152.90" ybr="190.31" z_order="0">
+    </box>
+  </image>
+  <image id="392" name="420683171_21f74d830c_z.jpg" width="640" height="427">
+    <box label="Human" source="manual" occluded="0" xtl="191.11" ytl="0.00" xbr="402.85" ybr="423.80" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="309.24" ytl="92.82" xbr="516.51" ybr="322.39" z_order="0">
+    </box>
+  </image>
+  <image id="393" name="420921733_14d693757a_z.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="335.80" ytl="155.87" xbr="493.75" ybr="426.65" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="581.64" ytl="164.18" xbr="640.00" ybr="272.26" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="479.50" ytl="111.93" xbr="640.00" ybr="436.15" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="420.12" ytl="148.74" xbr="487.81" ybr="224.75" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="227.72" ytl="83.43" xbr="346.49" ybr="477.72" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="157.65" ytl="173.69" xbr="257.41" ybr="480.00" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="73.33" ytl="183.19" xbr="169.53" ybr="322.14" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="2.07" ytl="139.24" xbr="86.39" ybr="293.64" z_order="0">
+    </box>
+  </image>
+  <image id="394" name="425643992_179c8c2947_z.jpg" width="640" height="427">
+    <box label="Human" source="manual" occluded="0" xtl="56.27" ytl="0.00" xbr="640.00" ybr="427.00" z_order="0">
+    </box>
+  </image>
+  <image id="395" name="426921087_ee6c2e5131_z.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="274.04" ytl="0.00" xbr="632.70" ybr="480.00" z_order="0">
+    </box>
+  </image>
+  <image id="396" name="427348381_450595908e_z.jpg" width="640" height="426">
+    <box label="Human" source="manual" occluded="0" xtl="140.96" ytl="18.16" xbr="439.62" ybr="337.99" z_order="0">
+    </box>
+  </image>
+  <image id="397" name="443710824_1c4d31cb35_z.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="198.03" ytl="47.80" xbr="529.38" ybr="425.46" z_order="0">
+    </box>
+  </image>
+  <image id="398" name="447319225_6046d66c1e_z.jpg" width="640" height="427">
+    <box label="Human" source="manual" occluded="0" xtl="227.89" ytl="54.93" xbr="397.27" ybr="226.55" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="0.00" ytl="48.25" xbr="216.74" ybr="389.25" z_order="0">
+    </box>
+  </image>
+  <image id="399" name="451452393_fab8cc22bc_z.jpg" width="470" height="640">
+    <box label="Human" source="manual" occluded="0" xtl="100.88" ytl="17.91" xbr="357.41" ybr="537.30" z_order="0">
+    </box>
+  </image>
+  <image id="400" name="463514575_bf53843755_z.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="327.48" ytl="8.60" xbr="489.00" ybr="463.47" z_order="0">
+    </box>
+  </image>
+  <image id="401" name="524576369_878f9c7c8a_z.jpg" width="640" height="428">
+    <box label="Human" source="manual" occluded="0" xtl="263.55" ytl="0.00" xbr="387.24" ybr="168.49" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="411.76" ytl="71.54" xbr="492.00" ybr="214.18" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="479.74" ytl="32.53" xbr="630.18" ybr="210.84" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="114.22" ytl="5.79" xbr="255.75" ybr="244.27" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="19.50" ytl="176.29" xbr="122.02" ybr="382.45" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="0.00" ytl="120.57" xbr="81.90" ybr="188.55" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="239.03" ytl="181.86" xbr="358.27" ybr="415.88" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="456.34" ytl="188.55" xbr="626.84" ybr="398.05" z_order="0">
+    </box>
+  </image>
+  <image id="402" name="530559560_9fb1d503a2_z.jpg" width="427" height="640">
+    <box label="Human" source="manual" occluded="0" xtl="4.29" ytl="92.33" xbr="187.98" ybr="464.46" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="153.14" ytl="0.00" xbr="425.50" ybr="488.21" z_order="0">
+    </box>
+  </image>
+  <image id="403" name="534383338_b4b0f32109_z.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="94.71" ytl="180.81" xbr="124.40" ybr="237.82" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="59.08" ytl="203.38" xbr="93.52" ybr="248.51" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="0.89" ytl="184.37" xbr="59.08" ybr="265.13" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="170.72" ytl="182.00" xbr="209.91" ybr="222.38" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="502.06" ytl="208.13" xbr="606.58" ybr="446.84" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="592.32" ytl="179.62" xbr="640.00" ybr="290.07" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="611.33" ytl="148.74" xbr="640.00" ybr="206.94" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="547.19" ytl="171.31" xbr="594.70" ybr="221.19" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="491.38" ytl="135.68" xbr="554.32" ybr="212.88" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="468.81" ytl="174.87" xbr="511.57" ybr="312.64" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="385.68" ytl="203.38" xbr="448.62" ybr="465.84" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="289.48" ytl="252.07" xbr="361.92" ybr="412.40" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="313.23" ytl="198.63" xbr="367.86" ybr="259.19" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="383.30" ytl="183.19" xbr="403.49" ybr="215.25" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="408.24" ytl="170.12" xbr="451.00" ybr="203.38" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="258.60" ytl="196.25" xbr="309.67" ybr="310.26" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="219.41" ytl="163.00" xbr="265.73" ybr="259.19" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="143.40" ytl="231.88" xbr="215.85" ybr="315.01" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="66.20" ytl="323.33" xbr="314.42" ybr="467.03" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="0.00" ytl="341.14" xbr="65.02" ybr="470.59" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="123.21" ytl="212.88" xbr="151.71" ybr="285.32" z_order="0">
+    </box>
+  </image>
+  <image id="404" name="539441424_394aae5e5e_z.jpg" width="639" height="428">
+    <box label="Human" source="manual" occluded="0" xtl="123.48" ytl="0.00" xbr="459.50" ybr="427.79" z_order="0">
+    </box>
+  </image>
+  <image id="405" name="542680847_9e7b3eb2b7_z - Copy.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="124.40" ytl="29.98" xbr="345.30" ybr="405.27" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="364.30" ytl="95.30" xbr="566.20" ybr="467.03" z_order="0">
+    </box>
+  </image>
+  <image id="406" name="687056424_bb4e3ad484_z - Copy.jpg" width="427" height="640">
+    <box label="Human" source="manual" occluded="0" xtl="115.13" ytl="17.91" xbr="362.16" ybr="586.39" z_order="0">
+    </box>
+  </image>
+  <image id="407" name="833511844_17b28a753e_z - Copy.jpg" width="640" height="427">
+    <box label="Human" source="manual" occluded="0" xtl="206.71" ytl="51.59" xbr="459.68" ybr="372.53" z_order="0">
+    </box>
+  </image>
+  <image id="408" name="866657713_e75de988f3_z - Copy.jpg" width="640" height="426">
+    <box label="Human" source="manual" occluded="0" xtl="2.78" ytl="0.00" xbr="240.15" ybr="411.54" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="237.92" ytl="20.39" xbr="538.80" ybr="399.28" z_order="0">
+    </box>
+  </image>
+  <image id="409" name="894571081_c71929941d_z - Copy.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="424.87" ytl="184.37" xbr="589.95" ybr="463.47" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="334.61" ytl="247.32" xbr="459.31" ybr="419.52" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="106.58" ytl="73.92" xbr="285.92" ybr="385.08" z_order="0">
+    </box>
+  </image>
+  <image id="410" name="967130108_f77cab68a9_z.jpg" width="639" height="430">
+    <box label="Human" source="manual" occluded="0" xtl="452.83" ytl="110.58" xbr="594.13" ybr="394.30" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="242.54" ytl="31.58" xbr="399.42" ybr="386.51" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="66.74" ytl="66.07" xbr="230.30" ybr="355.36" z_order="0">
+    </box>
+  </image>
+  <image id="411" name="989342187_6c515a05ae_z.jpg" width="640" height="480">
+    <box label="Human" source="manual" occluded="0" xtl="453.37" ytl="85.80" xbr="622.01" ybr="446.84" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="323.92" ytl="44.23" xbr="435.56" ybr="368.46" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="224.16" ytl="104.80" xbr="316.79" ybr="394.58" z_order="0">
+    </box>
+    <box label="Human" source="manual" occluded="0" xtl="118.46" ytl="38.30" xbr="206.34" ybr="387.46" z_order="0">
+    </box>
+  </image>
+<image id="412" name="10295960984_b52584e217_z.jpg" width="640" height="640">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="2.66" ytl="1.08" xbr="269.85" ybr="604.11" z_order="0">
+    </box>
+  </image>
+  <image id="413" name="11046013034_237fdd8030_z.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="438.74" ytl="206.77" xbr="523.29" ybr="314.58" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="402.10" ytl="192.68" xbr="453.53" ybr="253.98" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="434.50" ytl="247.60" xbr="538.80" ybr="389.30" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="430.98" ytl="179.30" xbr="462.69" ybr="205.37" z_order="0">
+    </box>
+  </image>
+  <image id="414" name="11046013034_237fdd8030_z2.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="444.37" ytl="204.66" xbr="520.47" ybr="306.83" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="415.48" ytl="246.94" xbr="547.95" ybr="397.02" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="404.21" ytl="192.68" xbr="457.06" ybr="265.96" z_order="0">
+    </box>
+  </image>
+  <image id="415" name="11066291214_b7a0d7ceca_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="535.86" ytl="257.44" xbr="638.83" ybr="349.33" z_order="0">
+    </box>
+  </image>
+  <image id="416" name="11417140555_12719e4297_z2.jpg" width="640" height="383">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="423.30" ytl="64.79" xbr="640.00" ybr="376.40" z_order="0">
+    </box>
+  </image>
+  <image id="417" name="1214887031_5dbfd0720e_z2.jpg" width="640" height="426">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="62.36" ytl="15.47" xbr="471.49" ybr="281.90" z_order="0">
+    </box>
+  </image>
+  <image id="418" name="12284807345_18f4fe4fbb_z2.jpg" width="640" height="428">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="98.61" ytl="72.05" xbr="398.07" ybr="283.23" z_order="0">
+    </box>
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="485.64" ytl="115.13" xbr="580.99" ybr="222.49" z_order="0">
+    </box>
+  </image>
+  <image id="419" name="128854220_bf991ae1e1_z2.jpg" width="480" height="640">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="2.11" ytl="367.54" xbr="76.80" ybr="523.85" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="349.27" ytl="428.80" xbr="457.00" ybr="530.18" z_order="0">
+    </box>
+  </image>
+  <image id="420" name="131480778_ce7f428837_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="489.13" ytl="334.28" xbr="614.28" ybr="440.41" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="135.86" ytl="287.50" xbr="281.60" ybr="412.69" z_order="0">
+    </box>
+  </image>
+  <image id="421" name="13174283715_839b997600_z2.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="307.68" ytl="6.66" xbr="640.00" ybr="249.76" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="77.27" ytl="170.84" xbr="318.25" ybr="327.27" z_order="0">
+    </box>
+  </image>
+  <image id="422" name="133183442_adae9e4b9d_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="220.53" ytl="0.00" xbr="639.60" ybr="284.40" z_order="0">
+    </box>
+  </image>
+  <image id="423" name="13325599895_df8c4cb0a4_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="316.45" ytl="2.39" xbr="639.62" ybr="149.72" z_order="0">
+    </box>
+  </image>
+  <image id="424" name="13754744543_0b638cb17f_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="127.15" ytl="226.55" xbr="290.32" ybr="346.16" z_order="0">
+    </box>
+  </image>
+  <image id="425" name="1378726454_a62918b51a_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="215.86" ytl="29.33" xbr="640.00" ybr="388.14" z_order="0">
+    </box>
+  </image>
+  <image id="426" name="13903641785_192ab8ff27_z.jpg" width="640" height="481">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="219.60" ytl="132.92" xbr="285.48" ybr="231.34" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="194.20" ytl="238.49" xbr="380.72" ybr="345.64" z_order="0">
+    </box>
+  </image>
+  <image id="427" name="14243728227_a9c1dcd0bc_z.jpg" width="640" height="640">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="223.39" ytl="279.89" xbr="504.31" ybr="577.71" z_order="0">
+    </box>
+  </image>
+  <image id="428" name="14566951680_b1f1941a86_z2.jpg" width="640" height="425">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="76.99" ytl="6.31" xbr="495.68" ybr="288.58" z_order="0">
+    </box>
+  </image>
+  <image id="429" name="14753631045_856abce764_z2.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="32.59" ytl="159.00" xbr="357.42" ybr="373.21" z_order="0">
+    </box>
+  </image>
+  <image id="430" name="14969786219_195b13d7ed_z.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="251.03" ytl="125.88" xbr="288.37" ybr="161.82" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="342.63" ytl="125.18" xbr="391.95" ybr="175.91" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="281.91" ytl="106.15" xbr="294.09" ybr="121.44" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="370.83" ytl="109.01" xbr="393.77" ybr="127.70" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="366.58" ytl="91.74" xbr="383.57" ybr="108.16" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="320.14" ytl="109.01" xbr="334.87" ybr="121.72" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="508.01" ytl="84.37" xbr="517.25" ybr="96.17" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="432.69" ytl="76.90" xbr="443.31" ybr="83.60" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="454.72" ytl="75.92" xbr="461.80" ybr="82.62" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="263.00" ytl="307.68" xbr="367.29" ybr="416.89" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="451.14" ytl="364.05" xbr="600.52" ybr="423.94" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="17.80" ytl="166.75" xbr="55.14" ybr="206.92" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="424.35" ytl="95.39" xbr="443.61" ybr="110.71" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="499.35" ytl="93.83" xbr="515.28" ybr="108.17" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="29.07" ytl="343.62" xbr="112.21" ybr="426.05" z_order="0">
+    </box>
+  </image>
+  <image id="431" name="15216726157_32ba93f741_z2.jpg" width="502" height="639">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="276.81" ybr="631.29" z_order="0">
+    </box>
+  </image>
+  <image id="432" name="15232601041_a97c603e5c_z.jpg" width="640" height="480">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="8.61" ytl="226.57" xbr="66.70" ybr="280.03" z_order="0">
+    </box>
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="244.99" ytl="358.53" xbr="353.21" ybr="405.96" z_order="0">
+    </box>
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="371.36" ytl="277.68" xbr="422.61" ybr="355.67" z_order="0">
+    </box>
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="422.61" ytl="272.90" xbr="455.08" ybr="323.83" z_order="0">
+    </box>
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="114.22" ytl="231.85" xbr="171.00" ybr="283.30" z_order="0">
+    </box>
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="232.38" ytl="226.57" xbr="280.56" ybr="274.75" z_order="0">
+    </box>
+  </image>
+  <image id="433" name="15253842163_9376cf3ccf_z.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="23.79" ytl="180.36" xbr="229.08" ybr="401.48" z_order="0">
+    </box>
+  </image>
+  <image id="434" name="156075226_99e2622a66_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="261.42" ytl="172.44" xbr="431.06" ybr="302.48" z_order="0">
+    </box>
+  </image>
+  <image id="435" name="1594653234_7d756bd2f8_z2.jpg" width="480" height="640">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="96.78" ytl="220.25" xbr="327.36" ybr="396.27" z_order="0">
+    </box>
+  </image>
+  <image id="436" name="16212779579_35c4f814a2_z.jpg" width="640" height="427">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="306.06" ytl="338.64" xbr="401.77" ybr="402.65" z_order="0">
+    </box>
+  </image>
+  <image id="437" name="16338985924_4a92829cfb_z2.jpg" width="640" height="425">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="281.50" ytl="247.66" xbr="497.21" ybr="425.00" z_order="0">
+    </box>
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="449.90" ytl="266.95" xbr="626.40" ybr="422.40" z_order="0">
+    </box>
+  </image>
+  <image id="438" name="16692701860_7f28531495_z2.jpg" width="640" height="360">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="374.55" ytl="150.59" xbr="563.66" ybr="323.37" z_order="0">
+    </box>
+  </image>
+  <image id="439" name="17107586775_88270b49f1_z.jpg" width="640" height="640">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="415.30" ytl="192.97" xbr="640.00" ybr="531.80" z_order="0">
+    </box>
+  </image>
+  <image id="440" name="17211937452_b1e6e53a8f_z.jpg" width="640" height="525">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="445.78" ytl="282.84" xbr="601.72" ybr="427.95" z_order="0">
+    </box>
+  </image>
+  <image id="441" name="17941283098_bb337dcf22_z2.jpg" width="640" height="426">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="317.77" ytl="256.15" xbr="436.69" ybr="406.11" z_order="0">
+    </box>
+  </image>
+  <image id="442" name="19604169018_c1a3693e13_z2.jpg" width="639" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="222.44" ytl="134.30" xbr="554.20" ybr="388.55" z_order="0">
+    </box>
+  </image>
+  <image id="443" name="20665288861_f10c916dee_z.jpg" width="639" height="424">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="273.25" ytl="133.66" xbr="614.34" ybr="368.63" z_order="0">
+    </box>
+  </image>
+  <image id="444" name="2113661218_dc98b302fe_z2.jpg" width="640" height="480">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="17.19" ytl="125.58" xbr="191.45" ybr="295.87" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="261.42" ytl="140.10" xbr="370.99" ybr="276.07" z_order="0">
+    </box>
+  </image>
+  <image id="445" name="2302089597_d95efc2a28_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="148.48" ytl="111.65" xbr="525.45" ybr="269.47" z_order="0">
+    </box>
+  </image>
+  <image id="446" name="2321872715_d4e40f6112_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="161.75" ytl="117.00" xbr="441.62" ybr="396.86" z_order="0">
+    </box>
+  </image>
+  <image id="447" name="2491694704_67625c4ff6_z2.jpg" width="492" height="639">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="107.35" ytl="396.97" xbr="433.35" ybr="576.23" z_order="0">
+    </box>
+  </image>
+  <image id="448" name="252792233_4d87e73e02_z2.jpg" width="640" height="480">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="1.95" ytl="114.95" xbr="633.72" ybr="480.00" z_order="0">
+    </box>
+  </image>
+  <image id="449" name="2587732111_851e731f47_z.jpg" width="640" height="360">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="120.59" ytl="173.86" xbr="380.00" ybr="345.64" z_order="0">
+    </box>
+  </image>
+  <image id="450" name="2696981220_b4e70eba8b_z.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="213.28" ytl="317.51" xbr="329.54" ybr="418.19" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="11.88" ytl="291.67" xbr="179.81" ybr="402.06" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="358.31" ytl="311.05" xbr="528.01" ybr="406.17" z_order="0">
+    </box>
+  </image>
+  <image id="451" name="2696981220_b4e70eba8b_z2.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="220.33" ytl="313.40" xbr="331.30" ybr="418.50" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="11.88" ytl="299.89" xbr="169.83" ybr="387.97" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="355.97" ytl="316.92" xbr="526.25" ybr="410.28" z_order="0">
+    </box>
+  </image>
+  <image id="452" name="273291767_0187be9eab_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="42.28" ytl="113.04" xbr="388.81" ybr="383.66" z_order="0">
+    </box>
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="445.51" ytl="113.63" xbr="592.77" ybr="245.71" z_order="0">
+    </box>
+  </image>
+  <image id="453" name="2733803879_22e1b93440_z2.jpg" width="465" height="639">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="20.45" ytl="302.07" xbr="197.95" ybr="546.36" z_order="0">
+    </box>
+  </image>
+  <image id="454" name="2761504808_482d4f6300_z.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="299.04" ytl="142.08" xbr="565.05" ybr="367.16" z_order="0">
+    </box>
+  </image>
+  <image id="455" name="2776525622_f51254645b_z.jpg" width="480" height="640">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="136.38" ytl="506.28" xbr="476.97" ybr="636.53" z_order="0">
+    </box>
+  </image>
+  <image id="456" name="30111447_cc7ce23f14_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="154.49" ytl="119.64" xbr="475.94" ybr="368.48" z_order="0">
+    </box>
+  </image>
+  <image id="457" name="3203245631_b19d74a686_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="62.74" ytl="231.85" xbr="323.47" ybr="421.29" z_order="0">
+    </box>
+  </image>
+  <image id="458" name="3675670871_0fe0ae49c4_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="50.86" ytl="197.52" xbr="291.78" ybr="354.62" z_order="0">
+    </box>
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="295.74" ytl="146.70" xbr="525.45" ybr="353.30" z_order="0">
+    </box>
+  </image>
+  <image id="459" name="3753481750_bce5e843d8_z2.jpg" width="639" height="620">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="60.95" ytl="148.60" xbr="565.68" ybr="493.89" z_order="0">
+    </box>
+  </image>
+  <image id="460" name="4178305139_fc37939c65_z2.jpg" width="640" height="604">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="284.48" ytl="218.62" xbr="634.16" ybr="474.44" z_order="0">
+    </box>
+  </image>
+  <image id="461" name="4343902706_ef3dde6ba8_z2.jpg" width="480" height="640">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="23.73" ytl="401.55" xbr="248.15" ybr="622.45" z_order="0">
+    </box>
+  </image>
+  <image id="462" name="4403678370_ab5c7554e2_z2.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="31.84" ytl="101.42" xbr="276.11" ybr="323.38" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="269.06" ytl="103.18" xbr="436.41" ybr="290.49" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="516.85" ytl="210.05" xbr="584.38" ybr="296.95" z_order="0">
+    </box>
+  </image>
+  <image id="463" name="4411903912_343d216e29_z.jpg" width="640" height="352">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="116.85" ytl="17.65" xbr="350.21" ybr="197.48" z_order="0">
+    </box>
+  </image>
+  <image id="464" name="4542086413_8082d6978c_z.jpg" width="639" height="428">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="88.33" ytl="11.24" xbr="498.19" ybr="349.91" z_order="0">
+    </box>
+  </image>
+  <image id="465" name="4574945367_d6e1761b8b_z.jpg" width="640" height="427">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="229.81" ytl="219.77" xbr="488.55" ybr="382.11" z_order="0">
+    </box>
+  </image>
+  <image id="466" name="4641266246_eafde8092a_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="282.58" ytl="336.53" xbr="404.63" ybr="452.87" z_order="0">
+    </box>
+  </image>
+  <image id="467" name="4771594350_0d9fc5c73a_z2.jpg" width="640" height="427">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="190.24" ytl="260.35" xbr="384.14" ybr="380.08" z_order="0">
+    </box>
+  </image>
+  <image id="468" name="4844284311_5a8a063b43_z2.jpg" width="426" height="639">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="233.00" ytl="354.66" xbr="424.35" ybr="545.98" z_order="0">
+    </box>
+  </image>
+  <image id="469" name="4853135795_73079a6442_z.jpg" width="640" height="481">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="403.66" ytl="281.82" xbr="538.53" ybr="438.41" z_order="0">
+    </box>
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="392.23" ytl="358.40" xbr="549.96" ybr="468.12" z_order="0">
+    </box>
+  </image>
+  <image id="470" name="4889855868_c0f6e8de74_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="118.34" ytl="3.48" xbr="538.08" ybr="337.67" z_order="0">
+    </box>
+  </image>
+  <image id="471" name="498553350_008e33a611_z2.jpg" width="640" height="426">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="97.49" ytl="209.65" xbr="296.91" ybr="369.59" z_order="0">
+    </box>
+  </image>
+  <image id="472" name="4999646339_3d4b67b156_z2.jpg" width="640" height="383">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="149.09" ytl="11.48" xbr="396.64" ybr="240.83" z_order="0">
+    </box>
+  </image>
+  <image id="473" name="5089475758_9a9b3f310c_z2.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="388.10" ytl="91.92" xbr="478.40" ybr="196.43" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="199.37" ytl="252.27" xbr="317.07" ybr="350.66" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="237.93" ytl="335.40" xbr="342.44" ybr="420.67" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="290.80" ytl="128.40" xbr="384.04" ybr="234.00" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="317.07" ytl="197.44" xbr="436.80" ybr="300.94" z_order="0">
+    </box>
+  </image>
+  <image id="474" name="5114051424_f028ce827e_z.jpg" width="640" height="427">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="453.03" ytl="340.51" xbr="567.69" ybr="427.00" z_order="0">
+    </box>
+  </image>
+  <image id="475" name="5122805252_a51752c96a_z.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="0.50" ytl="0.00" xbr="374.91" ybr="216.70" z_order="0">
+    </box>
+  </image>
+  <image id="476" name="5206033756_750b8c1dc0_z.jpg" width="640" height="510">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="196.60" ytl="316.34" xbr="380.81" ybr="479.94" z_order="0">
+    </box>
+  </image>
+  <image id="477" name="5269191632_65094018de_z.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="31.65" ytl="188.26" xbr="255.21" ybr="375.31" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="365.85" ytl="152.90" xbr="592.82" ybr="379.88" z_order="0">
+    </box>
+  </image>
+  <image id="478" name="5271531027_7c4759154d_z2.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="178.06" ytl="1.51" xbr="539.28" ybr="266.44" z_order="0">
+    </box>
+  </image>
+  <image id="479" name="5273590374_f7e47bb689_z.jpg" width="640" height="425">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="9.10" ytl="247.21" xbr="46.45" ybr="300.73" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="0.00" ytl="226.99" xbr="16.11" ybr="271.23" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="431.30" ytl="242.82" xbr="472.29" ybr="279.34" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="351.34" ytl="227.40" xbr="412.22" ybr="283.81" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="271.39" ytl="225.37" xbr="304.27" ybr="259.86" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="212.13" ytl="203.86" xbr="242.57" ybr="235.51" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="88.35" ytl="181.13" xbr="109.05" ybr="204.26" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="486.90" ytl="210.75" xbr="531.14" ybr="246.88" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="415.06" ytl="203.04" xbr="450.78" ybr="235.51" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="369.61" ytl="198.17" xbr="392.34" ybr="218.06" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="339.17" ytl="190.87" xbr="348.91" ybr="205.88" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="219.44" ytl="177.47" xbr="245.01" ybr="203.04" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="20.19" ytl="305.59" xbr="140.37" ybr="420.96" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="12.11" ytl="268.23" xbr="51.50" ybr="334.88" z_order="0">
+    </box>
+  </image>
+  <image id="480" name="5317662652_7bd85d254d_z2.jpg" width="490" height="640">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="6.88" ytl="13.08" xbr="413.84" ybr="478.45" z_order="0">
+    </box>
+  </image>
+  <image id="481" name="5355493679_0fe8e1fcda_z.jpg" width="640" height="427">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="276.69" ytl="179.89" xbr="616.39" ybr="422.19" z_order="0">
+    </box>
+  </image>
+  <image id="482" name="5398280875_bacdd4ea60_z.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="415.12" ytl="11.21" xbr="638.22" ybr="480.00" z_order="0">
+    </box>
+  </image>
+  <image id="483" name="5545579863_ed6d1a4e54_z.jpg" width="640" height="359">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="226.27" ytl="274.08" xbr="394.16" ybr="343.69" z_order="0">
+    </box>
+  </image>
+  <image id="484" name="5783551274_6836b70685_z.jpg" width="640" height="478">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="12.91" ytl="0.00" xbr="183.42" ybr="200.73" z_order="0">
+    </box>
+  </image>
+  <image id="485" name="5851743661_2e6d1ef6f2_z2.jpg" width="427" height="640">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="201.24" ytl="431.18" xbr="423.90" ybr="630.10" z_order="0">
+    </box>
+  </image>
+  <image id="486" name="5883326245_bf4d7a1704_z2.jpg" width="478" height="640">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="4.90" ytl="0.40" xbr="474.07" ybr="130.06" z_order="0">
+    </box>
+  </image>
+  <image id="487" name="5910289166_e0c6058f15_z.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="60.90" ytl="0.40" xbr="609.89" ybr="342.58" z_order="0">
+    </box>
+  </image>
+  <image id="488" name="5924883891_8316c27979_z2.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="319.67" ytl="86.26" xbr="587.54" ybr="251.85" z_order="0">
+    </box>
+  </image>
+  <image id="489" name="6069335250_3062343067_z2.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="45.71" ytl="1.03" xbr="621.63" ybr="340.73" z_order="0">
+    </box>
+  </image>
+  <image id="490" name="6294924978_f804183ecc_z2.jpg" width="640" height="427">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="138.25" ytl="293.25" xbr="312.36" ybr="407.70" z_order="0">
+    </box>
+  </image>
+  <image id="491" name="6505904851_db90c35c43_z.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="9.20" ytl="238.50" xbr="263.66" ybr="395.52" z_order="0">
+    </box>
+  </image>
+  <image id="492" name="6675777845_7c04ce6428_z.jpg" width="640" height="640">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="57.79" ytl="447.60" xbr="207.76" ybr="555.32" z_order="0">
+    </box>
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="341.88" ytl="347.27" xbr="485.51" ybr="431.76" z_order="0">
+    </box>
+  </image>
+  <image id="493" name="6675780481_9def5852aa_z2.jpg" width="640" height="640">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="303.86" ytl="175.12" xbr="616.47" ybr="508.85" z_order="0">
+    </box>
+  </image>
+  <image id="494" name="6821584344_78899590c1_z2.jpg" width="640" height="431">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="0.00" ytl="298.20" xbr="445.66" ybr="430.52" z_order="0">
+    </box>
+  </image>
+  <image id="495" name="6853574976_3225f2a931_z.jpg" width="640" height="427">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="83.75" ytl="214.39" xbr="392.37" ybr="387.72" z_order="0">
+    </box>
+  </image>
+  <image id="496" name="6950930850_048d85fdb9_z.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="444.51" ytl="265.12" xbr="631.24" ybr="418.02" z_order="0">
+    </box>
+  </image>
+  <image id="497" name="7093936031_8b19bf82b2_z2.jpg" width="612" height="612">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="53.22" ytl="62.41" xbr="504.64" ybr="481.52" z_order="0">
+    </box>
+  </image>
+  <image id="498" name="7108286489_353b277ba3_z.jpg" width="477" height="640">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="325.30" ytl="120.20" xbr="477.00" ybr="391.62" z_order="0">
+    </box>
+  </image>
+  <image id="499" name="7183302479_f074792bf5_z.jpg" width="640" height="425">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="324.70" ytl="237.94" xbr="478.29" ybr="381.01" z_order="0">
+    </box>
+  </image>
+  <image id="500" name="7249926766_a4c6afe436_z.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="328.96" ytl="222.84" xbr="579.10" ybr="389.13" z_order="0">
+    </box>
+  </image>
+  <image id="501" name="7367855384_12806a1f2c_z.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="443.35" ytl="158.99" xbr="636.61" ybr="475.03" z_order="0">
+    </box>
+  </image>
+  <image id="502" name="7524125858_163c55a974_z.jpg" width="640" height="427">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="0.60" ytl="246.09" xbr="255.68" ybr="422.25" z_order="0">
+    </box>
+  </image>
+  <image id="503" name="7786342516_44b372edb9_z2.jpg" width="612" height="612">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="371.34" ytl="97.75" xbr="595.53" ybr="277.52" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="67.36" ytl="251.26" xbr="482.43" ybr="528.00" z_order="0">
+    </box>
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="31.00" ytl="135.12" xbr="352.15" ybr="283.58" z_order="0">
+    </box>
+  </image>
+  <image id="504" name="7977825606_327eba12e3_z.jpg" width="640" height="427">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="247.22" ytl="204.52" xbr="324.02" ybr="260.89" z_order="0">
+    </box>
+  </image>
+  <image id="505" name="8094890532_858217fe57_z2.jpg" width="640" height="427">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="338.12" ytl="248.21" xbr="576.28" ybr="421.54" z_order="0">
+    </box>
+  </image>
+  <image id="506" name="8119054117_887c71cf3d_z.jpg" width="640" height="427">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="0.00" ytl="298.94" xbr="150.00" ybr="425.07" z_order="0">
+    </box>
+  </image>
+  <image id="507" name="8131638530_d3c7a9e4d4_z.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="102.77" ytl="19.21" xbr="459.31" ybr="300.35" z_order="0">
+    </box>
+  </image>
+  <image id="508" name="8139101910_6436ca83b2_z2.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="190.15" ytl="17.09" xbr="455.79" ybr="234.11" z_order="0">
+    </box>
+  </image>
+  <image id="509" name="8179967462_8aaf7fd7fc_z2.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="103.48" ytl="145.33" xbr="223.97" ybr="245.39" z_order="0">
+    </box>
+  </image>
+  <image id="510" name="8197141479_eed20b472d_z.jpg" width="640" height="424">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="375.77" ytl="120.18" xbr="568.88" ybr="287.40" z_order="0">
+    </box>
+  </image>
+  <image id="511" name="8390664546_055c48090f_z2.jpg" width="612" height="612">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="20.93" ytl="34.55" xbr="438.02" ybr="495.26" z_order="0">
+    </box>
+  </image>
+  <image id="512" name="8394543172_51cf98ea14_z2.jpg" width="640" height="456">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="94.62" ytl="229.84" xbr="327.37" ybr="420.99" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="380.68" ytl="249.35" xbr="560.12" ybr="378.08" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="104.89" ytl="73.81" xbr="324.76" ybr="238.95" z_order="0">
+    </box>
+  </image>
+  <image id="513" name="8411168435_e050134616_z.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="185.61" ytl="193.89" xbr="408.43" ybr="364.35" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="117.43" ytl="28.30" xbr="325.63" ybr="193.89" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="420.61" ytl="190.24" xbr="640.00" ybr="403.32" z_order="0">
+    </box>
+  </image>
+  <image id="514" name="8428087583_7ba277a299_z.jpg" width="640" height="426">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="216.33" ytl="120.00" xbr="425.27" ybr="353.23" z_order="0">
+    </box>
+  </image>
+  <image id="515" name="8432624349_77fe55c605_z2.jpg" width="612" height="612">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="258.27" ytl="221.27" xbr="511.31" ybr="406.25" z_order="0">
+    </box>
+  </image>
+  <image id="516" name="8433751962_1bf0924abf_z.jpg" width="640" height="427">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="190.48" ytl="231.64" xbr="462.00" ybr="415.49" z_order="0">
+    </box>
+  </image>
+  <image id="517" name="8448510242_18838b60cd_z.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="52.69" ytl="193.40" xbr="403.08" ybr="463.71" z_order="0">
+    </box>
+  </image>
+  <image id="518" name="8469037780_85ebcb3b42_z.jpg" width="640" height="478">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="0.12" ytl="87.52" xbr="395.30" ybr="379.37" z_order="0">
+    </box>
+  </image>
+  <image id="519" name="8611240040_0916407e42_z.jpg" width="640" height="426">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="13.15" ytl="227.07" xbr="181.87" ybr="414.76" z_order="0">
+    </box>
+  </image>
+  <image id="520" name="8620227145_8686b6cf6d_z.jpg" width="640" height="482">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="90.50" ytl="2.37" xbr="246.39" ybr="93.04" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="286.16" ytl="3.16" xbr="407.90" ybr="72.36" z_order="0">
+    </box>
+  </image>
+  <image id="521" name="8639031600_a7f29429a3_z2.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="167.54" ytl="352.49" xbr="346.55" ybr="461.01" z_order="0">
+    </box>
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="0.00" ytl="292.30" xbr="142.20" ybr="467.35" z_order="0">
+    </box>
+  </image>
+  <image id="522" name="8666179390_1227c0dc43_z.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="292.81" ytl="2.44" xbr="609.96" ybr="100.38" z_order="0">
+    </box>
+  </image>
+  <image id="523" name="8726041304_5b826b042c_z.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="539.82" ytl="318.43" xbr="639.62" ybr="477.64" z_order="0">
+    </box>
+  </image>
+  <image id="524" name="8800436136_5777f222a4_z.jpg" width="640" height="480">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="478.04" ytl="190.12" xbr="639.62" ybr="329.52" z_order="0">
+    </box>
+  </image>
+  <image id="525" name="8817901440_67ee485ec1_z.jpg" width="640" height="427">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="244.26" ytl="45.42" xbr="516.95" ybr="292.03" z_order="0">
+    </box>
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="18.01" ytl="17.23" xbr="166.05" ybr="179.30" z_order="0">
+    </box>
+  </image>
+  <image id="526" name="9041917200_01dcbd7908_z2.jpg" width="640" height="425">
+    <box label="ON_Laptop" source="manual" occluded="0" xtl="197.62" ytl="144.11" xbr="527.24" ybr="401.49" z_order="0">
+    </box>
+  </image>
+  <image id="527" name="9375002848_e7beef553b_z2.jpg" width="640" height="480">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="101.01" ytl="178.24" xbr="280.02" ybr="292.30" z_order="0">
+    </box>
+  </image>
+  <image id="528" name="9375028364_faacfef32c_z2.jpg" width="640" height="480">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="223.78" ytl="241.60" xbr="426.55" ybr="388.93" z_order="0">
+    </box>
+  </image>
+  <image id="529" name="9650143389_2d9978468f_z.jpg" width="639" height="427">
+    <box label="OFF_Laptop" source="manual" occluded="0" xtl="121.52" ytl="119.40" xbr="616.86" ybr="312.47" z_order="0">
+    </box>
+  </image>
+<image id="530" name="100792201_174ee811c8_z.jpg" width="640" height="427">
+    <box label="Light on" source="manual" occluded="0" xtl="150.29" ytl="226.54" xbr="319.30" ybr="422.00" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="336.94" ytl="174.59" xbr="532.39" ybr="321.62" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="65.77" ytl="105.04" xbr="347.51" ybr="235.34" z_order="0">
+    </box>
+  </image>
+  <image id="531" name="1014996109_447451215e_z.jpg" width="425" height="639">
+    <box label="Light on" source="manual" occluded="0" xtl="313.26" ytl="532.71" xbr="425.00" ybr="639.00" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="0.00" ytl="433.10" xbr="139.35" ybr="611.76" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="38.16" ytl="78.95" xbr="134.60" ybr="273.42" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="278.48" ytl="224.41" xbr="392.31" ybr="420.45" z_order="0">
+    </box>
+  </image>
+  <image id="532" name="1023542932_94618276f0_z.jpg" width="480" height="640">
+    <box label="Light on" source="manual" occluded="0" xtl="341.66" ytl="98.91" xbr="480.00" ybr="491.62" z_order="0">
+    </box>
+    <box label="Light off" source="manual" occluded="0" xtl="0.00" ytl="149.58" xbr="208.65" ybr="383.94" z_order="0">
+    </box>
+    <box label="Light off" source="manual" occluded="0" xtl="203.90" ytl="201.84" xbr="403.42" ybr="494.79" z_order="0">
+    </box>
+  </image>
+  <image id="533" name="1072588130_00dbe162ab_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="175.55" ytl="0.00" xbr="547.52" ybr="480.00" z_order="0">
+    </box>
+  </image>
+  <image id="534" name="1075220659_82c93b720f_z.jpg" width="640" height="360">
+    <box label="Light on" source="manual" occluded="0" xtl="413.51" ytl="31.31" xbr="541.26" ybr="310.43" z_order="0">
+    </box>
+  </image>
+  <image id="535" name="109706124_9ca415e1bb_z.jpg" width="480" height="640">
+    <box label="Light on" source="manual" occluded="0" xtl="129.28" ytl="78.93" xbr="321.20" ybr="289.85" z_order="0">
+    </box>
+  </image>
+  <image id="536" name="126552128_5ac786f4de_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="91.87" ytl="111.25" xbr="156.30" ybr="164.70" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="11.32" ytl="64.60" xbr="45.96" ybr="116.56" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="54.21" ytl="167.69" xbr="85.55" ybr="209.75" z_order="0">
+    </box>
+    <box label="Light off" source="manual" occluded="0" xtl="136.68" ytl="196.56" xbr="198.54" ybr="236.14" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="403.58" ytl="130.38" xbr="586.00" ybr="245.81" z_order="0">
+    </box>
+  </image>
+  <image id="537" name="126557113_02a7a91fca_z.jpg" width="640" height="482">
+    <box label="Light on" source="manual" occluded="0" xtl="156.40" ytl="31.76" xbr="466.95" ybr="290.78" z_order="0">
+    </box>
+  </image>
+  <image id="538" name="1338972153_960d65527a_z.jpg" width="639" height="426">
+    <box label="Light on" source="manual" occluded="0" xtl="180.61" ytl="368.56" xbr="241.32" ybr="426.00" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="334.92" ytl="184.91" xbr="422.19" ybr="287.36" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="517.05" ytl="282.56" xbr="603.06" ybr="354.65" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="452.55" ytl="293.94" xbr="525.91" ybr="393.86" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="480.38" ytl="398.92" xbr="566.38" ybr="426.00" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="112.31" ytl="173.78" xbr="205.91" ybr="299.00" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="0.00" ytl="340.74" xbr="84.48" ybr="426.00" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="100.93" ytl="324.30" xbr="176.82" ybr="402.71" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="289.39" ytl="378.68" xbr="390.57" ybr="426.00" z_order="0">
+    </box>
+  </image>
+  <image id="539" name="1536207593_f087b990fc_z.jpg" width="480" height="640">
+    <box label="Light on" source="manual" occluded="0" xtl="26.48" ytl="280.54" xbr="315.31" ybr="635.88" z_order="0">
+    </box>
+  </image>
+  <image id="540" name="1551542381_7252da67d0_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="313.79" ytl="90.60" xbr="483.39" ybr="278.73" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="142.77" ytl="17.93" xbr="290.99" ybr="97.70" z_order="0">
+    </box>
+    <box label="Light off" source="manual" occluded="0" xtl="131.37" ytl="74.94" xbr="265.34" ybr="180.40" z_order="0">
+    </box>
+    <box label="Light off" source="manual" occluded="0" xtl="340.87" ytl="33.61" xbr="487.66" ybr="111.99" z_order="0">
+    </box>
+    <box label="Light off" source="manual" occluded="0" xtl="95.74" ytl="178.97" xbr="255.36" ybr="277.31" z_order="0">
+    </box>
+  </image>
+  <image id="541" name="156703114_24d8819c15_z.jpg" width="640" height="548">
+    <box label="Light on" source="manual" occluded="0" xtl="85.10" ytl="121.39" xbr="553.69" ybr="480.96" z_order="0">
+    </box>
+  </image>
+  <image id="542" name="1581449314_65ba86e209_z.jpg" width="639" height="433">
+    <box label="Light on" source="manual" occluded="0" xtl="215.54" ytl="91.48" xbr="484.23" ybr="411.59" z_order="0">
+    </box>
+  </image>
+  <image id="543" name="159058822_12a2826597_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="315.02" ytl="244.23" xbr="385.81" ybr="301.96" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="295.57" ytl="271.79" xbr="347.11" ybr="337.08" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="244.02" ytl="231.24" xbr="310.00" ybr="305.46" z_order="0">
+    </box>
+  </image>
+  <image id="544" name="2094817248_b011b2a7e7_z.jpg" width="480" height="640">
+    <box label="Light on" source="manual" occluded="0" xtl="224.85" ytl="195.61" xbr="335.73" ybr="383.47" z_order="0">
+    </box>
+  </image>
+  <image id="545" name="2105510790_e0408dccc8_z.jpg" width="480" height="640">
+    <box label="Light on" source="manual" occluded="0" xtl="112.13" ytl="91.15" xbr="282.58" ybr="307.41" z_order="0">
+    </box>
+  </image>
+  <image id="546" name="2177472569_6e9fa55dd0_z.jpg" width="639" height="281">
+    <box label="Light on" source="manual" occluded="0" xtl="282.69" ytl="0.00" xbr="377.97" ybr="115.64" z_order="0">
+    </box>
+  </image>
+  <image id="547" name="2251117831_b9d39a79ee_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="239.90" ytl="18.87" xbr="456.39" ybr="348.76" z_order="0">
+    </box>
+  </image>
+  <image id="548" name="2268446741_e01f4f2aec_z.jpg" width="589" height="640">
+    <box label="Light on" source="manual" occluded="0" xtl="133.43" ytl="292.10" xbr="491.30" ybr="599.30" z_order="0">
+    </box>
+  </image>
+  <image id="549" name="2279694390_a52d82c1f2_z.jpg" width="640" height="429">
+    <box label="Light on" source="manual" occluded="0" xtl="193.44" ytl="95.46" xbr="523.54" ybr="342.78" z_order="0">
+    </box>
+  </image>
+  <image id="550" name="2287209142_9b7df282df_z.jpg" width="640" height="427">
+    <box label="Light on" source="manual" occluded="0" xtl="0.00" ytl="90.73" xbr="57.76" ybr="180.53" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="10.22" ytl="0.00" xbr="185.60" ybr="70.65" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="111.64" ytl="70.65" xbr="261.67" ybr="167.85" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="310.27" ytl="68.54" xbr="426.48" ybr="160.45" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="437.04" ytl="160.45" xbr="555.37" ybr="238.63" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="580.73" ytl="24.17" xbr="640.00" ybr="99.18" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="542.69" ytl="190.04" xbr="640.00" ybr="279.84" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="442.33" ytl="286.18" xbr="541.64" ybr="410.84" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="331.40" ytl="241.80" xbr="424.37" ybr="327.38" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="215.18" ytl="193.21" xbr="321.89" ybr="263.99" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="65.16" ytl="211.17" xbr="143.34" ybr="280.89" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="124.32" ytl="255.54" xbr="209.90" ybr="318.93" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="54.59" ytl="294.63" xbr="154.96" ybr="358.02" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="111.64" ytl="346.40" xbr="184.54" ybr="427.00" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="0.00" ytl="222.67" xbr="38.30" ybr="322.05" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="0.00" ytl="351.69" xbr="38.30" ybr="403.99" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="230.43" ytl="289.02" xbr="332.86" ybr="352.29" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="256.03" ytl="326.68" xbr="338.88" ybr="405.01" z_order="0">
+    </box>
+  </image>
+  <image id="551" name="2299795552_1132189dde_z.jpg" width="640" height="428">
+    <box label="Light on" source="manual" occluded="0" xtl="286.16" ytl="60.06" xbr="391.61" ybr="301.07" z_order="0">
+    </box>
+  </image>
+  <image id="552" name="2335642091_e7afd11759_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="281.01" ytl="177.79" xbr="333.29" ybr="232.91" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="166.95" ytl="188.24" xbr="239.19" ybr="238.62" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="239.19" ytl="328.91" xbr="279.11" ybr="364.08" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="318.08" ytl="310.86" xbr="372.26" ybr="356.48" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="351.26" ytl="238.10" xbr="404.30" ybr="276.69" z_order="0">
+    </box>
+  </image>
+  <image id="553" name="2362367384_30d3a75677_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="26.28" ytl="206.30" xbr="94.71" ybr="340.32" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="193.56" ytl="235.77" xbr="283.86" ybr="366.93" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="134.63" ytl="174.93" xbr="206.87" ybr="308.95" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="88.06" ytl="266.18" xbr="162.20" ybr="403.05" z_order="0">
+    </box>
+  </image>
+  <image id="554" name="2383523255_387b5bd9f2_z.jpg" width="480" height="640">
+    <box label="Light on" source="manual" occluded="0" xtl="77.76" ytl="157.22" xbr="384.46" ybr="567.84" z_order="0">
+    </box>
+  </image>
+  <image id="555" name="2502681480_977c606cd2_z.jpg" width="640" height="423">
+    <box label="Light on" source="manual" occluded="0" xtl="413.70" ytl="2.71" xbr="500.31" ybr="104.39" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="540.48" ytl="0.00" xbr="594.46" ybr="123.22" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="309.51" ytl="0.00" xbr="371.02" ybr="94.35" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="211.60" ytl="3.97" xbr="290.68" ybr="139.54" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="104.90" ytl="0.00" xbr="167.66" ybr="83.05" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="3.22" ytl="0.00" xbr="49.66" ybr="81.80" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="344.66" ytl="167.16" xbr="543.00" ybr="357.96" z_order="0">
+    </box>
+  </image>
+  <image id="556" name="2502696378_25db449a17_z.jpg" width="640" height="427">
+    <box label="Light on" source="manual" occluded="0" xtl="246.24" ytl="239.01" xbr="467.68" ybr="427.00" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="189.00" ytl="145.62" xbr="303.48" ybr="314.33" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="157.37" ytl="100.43" xbr="216.12" ybr="214.91" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="131.76" ytl="68.79" xbr="190.51" ybr="153.15" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="122.51" ytl="40.57" xbr="160.00" ybr="119.90" z_order="0">
+    </box>
+    <box label="Light off" source="manual" occluded="0" xtl="105.95" ytl="32.72" xbr="140.82" ybr="92.87" z_order="0">
+    </box>
+  </image>
+  <image id="557" name="252738946_4378581b2a_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="424.48" ytl="35.76" xbr="511.16" ybr="132.71" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="121.08" ytl="138.42" xbr="164.42" ybr="223.96" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="156.44" ytl="145.26" xbr="229.44" ybr="287.83" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="232.86" ytl="325.47" xbr="311.56" ybr="447.52" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="319.54" ytl="280.99" xbr="397.10" ybr="387.07" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="375.43" ytl="252.48" xbr="426.76" ybr="319.77" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="387.98" ytl="129.29" xbr="456.41" ybr="219.40" z_order="0">
+    </box>
+  </image>
+  <image id="558" name="2536749944_d9d319b1a4_z.jpg" width="640" height="426">
+    <box label="Light on" source="manual" occluded="0" xtl="261.31" ytl="9.44" xbr="433.03" ybr="206.78" z_order="0">
+    </box>
+  </image>
+  <image id="559" name="2547992565_c860c497cf_z.jpg" width="480" height="640">
+    <box label="Light on" source="manual" occluded="0" xtl="262.69" ytl="306.09" xbr="347.18" ybr="358.90" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="238.40" ytl="221.61" xbr="356.68" ybr="300.81" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="325.00" ytl="363.12" xbr="445.39" ybr="430.71" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="125.39" ytl="255.40" xbr="218.33" ybr="331.44" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="181.37" ytl="280.75" xbr="278.53" ybr="376.85" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="88.43" ytl="317.71" xbr="175.03" ybr="403.25" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="124.34" ytl="350.45" xbr="200.38" ybr="448.67" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="229.95" ytl="372.63" xbr="322.88" ybr="438.11" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="309.16" ytl="291.31" xbr="415.82" ybr="363.12" z_order="0">
+    </box>
+  </image>
+  <image id="560" name="2677094703_eee9de9099_z.jpg" width="640" height="427">
+    <box label="Light on" source="manual" occluded="0" xtl="249.16" ytl="121.45" xbr="383.55" ybr="303.06" z_order="0">
+    </box>
+  </image>
+  <image id="561" name="276378406_de4091d6ee_z.jpg" width="640" height="426">
+    <box label="Light on" source="manual" occluded="0" xtl="173.61" ytl="165.69" xbr="411.88" ybr="320.42" z_order="0">
+    </box>
+  </image>
+  <image id="562" name="2814500537_d1d9b4529a_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="362.66" ytl="184.88" xbr="394.57" ybr="243.19" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="325.81" ytl="159.03" xbr="367.61" ybr="215.69" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="271.90" ytl="189.84" xbr="306.01" ybr="241.54" z_order="0">
+    </box>
+    <box label="Light off" source="manual" occluded="0" xtl="397.32" ytl="200.29" xbr="432.52" ybr="261.89" z_order="0">
+    </box>
+    <box label="Light off" source="manual" occluded="0" xtl="427.57" ytl="229.44" xbr="450.12" ybr="281.69" z_order="0">
+    </box>
+    <box label="Light off" source="manual" occluded="0" xtl="224.05" ytl="221.19" xbr="263.10" ybr="269.59" z_order="0">
+    </box>
+  </image>
+  <image id="563" name="2825106600_19400c693f_z.jpg" width="640" height="637">
+    <box label="Light on" source="manual" occluded="0" xtl="95.52" ytl="0.00" xbr="315.24" ybr="205.07" z_order="0">
+    </box>
+  </image>
+  <image id="564" name="289152230_8a53a38180_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="402.58" ytl="34.83" xbr="432.04" ybr="90.91" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="461.51" ytl="67.15" xbr="499.53" ybr="131.78" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="497.63" ytl="124.18" xbr="537.55" ybr="185.96" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="519.49" ytl="174.55" xbr="548.95" ybr="222.08" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="518.54" ytl="233.48" xbr="567.01" ybr="281.01" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="492.87" ytl="302.87" xbr="536.60" ybr="351.35" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="444.40" ytl="358.95" xbr="496.68" ybr="402.67" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="431.09" ytl="285.76" xbr="462.46" ybr="313.33" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="446.30" ytl="191.66" xbr="480.52" ybr="236.34" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="415.88" ytl="115.62" xbr="462.46" ybr="168.85" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="335.09" ytl="18.67" xbr="375.01" ybr="66.20" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="347.45" ytl="70.00" xbr="381.67" ybr="137.48" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="236.24" ytl="39.58" xbr="277.11" ybr="84.26" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="243.85" ytl="93.76" xbr="284.72" ybr="146.04" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="198.79" ytl="151.27" xbr="233.01" ybr="195.94" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="199.17" ytl="238.24" xbr="233.39" ybr="282.91" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="113.63" ytl="168.85" xbr="161.15" ybr="214.47" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="107.54" ytl="239.66" xbr="156.97" ybr="291.94" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="148.80" ytl="305.72" xbr="175.41" ybr="349.45" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="191.57" ytl="358.95" xbr="231.49" ybr="411.23" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="257.15" ytl="304.77" xbr="294.22" ybr="363.70" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="342.70" ytl="326.63" xbr="377.86" ybr="366.55" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="333.19" ytl="409.33" xbr="366.46" ybr="453.05" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="396.87" ytl="395.07" xbr="423.49" ybr="445.45" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="255.25" ytl="396.97" xbr="286.62" ybr="437.84" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="145.94" ytl="116.57" xbr="181.11" ybr="160.30" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="194.42" ytl="74.75" xbr="222.93" ybr="118.47" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="105.07" ytl="45.29" xbr="130.74" ybr="77.60" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="151.65" ytl="51.94" xbr="172.56" ybr="86.16" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="128.84" ytl="75.70" xbr="153.55" ybr="106.12" z_order="0">
+    </box>
+  </image>
+  <image id="565" name="2930024763_2a8e7fc827_z.jpg" width="640" height="426">
+    <box label="Light on" source="manual" occluded="0" xtl="169.58" ytl="225.65" xbr="219.80" ybr="268.54" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="126.70" ytl="287.37" xbr="166.45" ybr="330.26" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="253.27" ytl="151.38" xbr="382.99" ybr="282.14" z_order="0">
+    </box>
+  </image>
+  <image id="566" name="2937874172_ce238103bf_z.jpg" width="424" height="639">
+    <box label="Light on" source="manual" occluded="0" xtl="42.21" ytl="1.52" xbr="183.42" ybr="129.07" z_order="0">
+    </box>
+  </image>
+  <image id="567" name="300069333_ceeb5cefb0_z.jpg" width="640" height="427">
+    <box label="Light on" source="manual" occluded="0" xtl="232.02" ytl="70.16" xbr="253.08" ybr="103.58" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="251.63" ytl="70.89" xbr="271.97" ybr="105.76" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="0.00" ytl="90.07" xbr="9.87" ybr="121.30" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="9.14" ytl="93.70" xbr="43.28" ybr="116.22" z_order="0">
+    </box>
+  </image>
+  <image id="568" name="311450798_2b39048c18_z.jpg" width="480" height="640">
+    <box label="Light on" source="manual" occluded="0" xtl="1.23" ytl="97.58" xbr="80.06" ybr="233.36" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="66.92" ytl="139.19" xbr="158.90" ybr="222.41" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="173.13" ytl="245.81" xbr="243.54" ybr="313.29" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="261.87" ytl="262.68" xbr="331.55" ybr="326.49" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="308.08" ytl="198.14" xbr="355.75" ybr="243.61" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="277.20" ytl="144.60" xbr="342.47" ybr="193.01" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="382.43" ytl="113.75" xbr="480.00" ybr="216.41" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="373.56" ytl="248.09" xbr="480.00" ybr="352.01" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="327.95" ytl="489.30" xbr="394.69" ybr="584.65" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="383.69" ytl="446.77" xbr="436.50" ybr="495.90" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="374.89" ytl="368.29" xbr="445.30" ybr="446.77" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="338.22" ytl="357.29" xbr="378.56" ybr="426.96" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="272.21" ytl="333.82" xbr="333.09" ybr="406.43" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="223.08" ytl="339.69" xbr="272.21" ybr="431.36" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="195.21" ytl="350.69" xbr="223.81" ybr="426.96" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="165.14" ytl="322.09" xbr="191.54" ybr="399.09" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="91.06" ytl="321.35" xbr="157.07" ybr="418.16" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="61.73" ytl="397.63" xbr="140.93" ybr="470.23" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="52.93" ytl="468.03" xbr="141.67" ybr="561.18" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="80.06" ytl="522.31" xbr="148.27" ybr="627.92" z_order="0">
+    </box>
+  </image>
+  <image id="569" name="329024300_a07e0e8757_z.jpg" width="640" height="427">
+    <box label="Light on" source="manual" occluded="0" xtl="204.21" ytl="60.96" xbr="425.65" ybr="220.63" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="184.63" ytl="229.67" xbr="410.59" ybr="427.00" z_order="0">
+    </box>
+  </image>
+  <image id="570" name="358736155_1a1b38cad3_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="145.98" ytl="48.81" xbr="459.36" ybr="370.08" z_order="0">
+    </box>
+  </image>
+  <image id="571" name="358987888_1f6812708d_z.jpg" width="639" height="425">
+    <box label="Light on" source="manual" occluded="0" xtl="9.56" ytl="0.00" xbr="175.60" ybr="245.99" z_order="0">
+    </box>
+  </image>
+  <image id="572" name="365170060_a64dfbeff7_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="112.47" ytl="117.80" xbr="297.76" ybr="480.00" z_order="0">
+    </box>
+  </image>
+  <image id="573" name="389853133_7cd176dcaa_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="272.12" ytl="23.19" xbr="542.14" ybr="312.92" z_order="0">
+    </box>
+  </image>
+  <image id="574" name="421889501_f942ef4d6e_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="388.55" ytl="270.61" xbr="450.14" ybr="336.77" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="305.29" ytl="277.46" xbr="357.75" ybr="343.61" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="231.15" ytl="166.82" xbr="303.00" ybr="221.57" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="217.46" ytl="245.52" xbr="266.51" ybr="319.66" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="168.41" ytl="206.74" xbr="231.15" ybr="278.60" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="358.89" ytl="128.04" xbr="430.75" ybr="228.41" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="471.81" ytl="173.66" xbr="523.14" ybr="240.96" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="469.53" ytl="240.96" xbr="539.11" ybr="300.27" z_order="0">
+    </box>
+  </image>
+  <image id="575" name="441781263_6ee008ffd5_z.jpg" width="426" height="640">
+    <box label="Light on" source="manual" occluded="0" xtl="144.12" ytl="292.67" xbr="237.19" ybr="405.82" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="158.72" ytl="99.23" xbr="273.69" ybr="223.32" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="160.54" ytl="480.64" xbr="226.24" ybr="533.56" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="167.84" ytl="535.39" xbr="207.99" ybr="571.89" z_order="0">
+    </box>
+  </image>
+  <image id="576" name="45194222_6d020a99de_z.jpg" width="480" height="640">
+    <box label="Light on" source="manual" occluded="0" xtl="0.00" ytl="84.63" xbr="165.65" ybr="281.72" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="127.33" ytl="31.70" xbr="318.95" ybr="216.02" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="353.62" ytl="0.00" xbr="480.00" ybr="188.65" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="171.13" ytl="473.34" xbr="315.30" ybr="606.56" z_order="0">
+    </box>
+  </image>
+  <image id="577" name="481281796_047a8e42f9_z.jpg" width="636" height="640">
+    <box label="Light on" source="manual" occluded="0" xtl="168.76" ytl="59.08" xbr="480.82" ybr="533.56" z_order="0">
+    </box>
+  </image>
+  <image id="578" name="482240752_47c75cba98_z.jpg" width="640" height="480">
+    <box label="Light off" source="manual" occluded="0" xtl="224.60" ytl="74.45" xbr="420.36" ybr="270.14" z_order="0">
+    </box>
+  </image>
+  <image id="579" name="488536333_1bc9d74ad3_z.jpg" width="480" height="640">
+    <box label="Light on" source="manual" occluded="0" xtl="46.48" ytl="523.16" xbr="132.26" ybr="585.39" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="152.33" ytl="508.75" xbr="225.33" ybr="577.91" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="281.90" ytl="477.54" xbr="367.68" ybr="565.14" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="20.94" ytl="264.25" xbr="301.98" ybr="391.77" z_order="0">
+    </box>
+  </image>
+  <image id="580" name="5758571_5358a4c554_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="22.99" ytl="172.04" xbr="248.83" ybr="436.20" z_order="0">
+    </box>
+  </image>
+  <image id="581" name="651293783_7b41017e2d_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="76.37" ytl="14.64" xbr="258.41" ybr="278.80" z_order="0">
+    </box>
+  </image>
+  <image id="582" name="709671871_8297a7010a_z.jpg" width="640" height="480">
+    <box label="Light on" source="manual" occluded="0" xtl="211.87" ytl="2.32" xbr="303.58" ybr="78.97" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="287.15" ytl="0.00" xbr="348.74" ybr="51.59" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="311.79" ytl="70.76" xbr="407.60" ybr="136.46" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="399.38" ytl="199.42" xbr="517.09" ybr="336.29" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="70.89" ytl="126.87" xbr="163.97" ybr="237.74" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="0.00" ytl="273.33" xbr="88.69" ybr="412.94" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="142.07" ytl="256.90" xbr="250.20" ybr="380.13" z_order="0">
+    </box>
+  </image>
+  <image id="583" name="712797810_946af3f1dd_z.jpg" width="427" height="640">
+    <box label="Light on" source="manual" occluded="0" xtl="92.11" ytl="38.32" xbr="216.21" ybr="256.90" z_order="0">
+    </box>
+  </image>
+  <image id="584" name="840346696_a423ad66c8_z.jpg" width="481" height="639">
+    <box label="Light on" source="manual" occluded="0" xtl="169.66" ytl="0.00" xbr="211.83" ybr="32.49" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="159.11" ytl="132.66" xbr="201.29" ybr="165.17" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="138.90" ytl="167.81" xbr="220.62" ybr="200.32" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="130.99" ytl="7.01" xbr="215.35" ybr="114.21" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="154.85" ytl="406.47" xbr="192.48" ybr="434.44" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="156.89" ytl="431.89" xbr="198.59" ybr="455.28" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="143.16" ytl="475.63" xbr="207.23" ybr="548.85" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="144.35" ytl="547.94" xbr="200.59" ybr="584.85" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="142.59" ytl="577.82" xbr="203.22" ybr="614.72" z_order="0">
+    </box>
+  </image>
+  <image id="585" name="86424016_c4a677b6f8_z.jpg" width="640" height="502">
+    <box label="Light on" source="manual" occluded="0" xtl="197.77" ytl="35.24" xbr="256.42" ybr="79.10" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="385.65" ytl="86.93" xbr="432.37" ybr="139.62" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="195.58" ytl="80.77" xbr="261.19" ybr="126.49" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="370.54" ytl="60.89" xbr="448.07" ybr="93.69" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="291.01" ytl="70.83" xbr="346.68" ybr="144.39" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="191.61" ytl="162.28" xbr="249.26" ybr="238.82" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="378.49" ytl="154.33" xbr="442.11" ybr="223.91" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="436.14" ytl="182.16" xbr="491.81" ybr="269.64" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="137.93" ytl="177.19" xbr="187.63" ybr="261.69" z_order="0">
+    </box>
+    <box label="Light on" source="manual" occluded="0" xtl="288.03" ytl="302.44" xbr="342.70" ybr="388.93" z_order="0">
+    </box>
+  </image>
+  <image id="586" name="951603335_2a4d1b1b41_z.jpg" width="640" height="426">
+    <box label="Light on" source="manual" occluded="0" xtl="147.88" ytl="12.15" xbr="516.94" ybr="426.00" z_order="0">
+    </box>
+  </image>
+</annotations>
