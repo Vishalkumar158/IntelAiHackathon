@@ -40,7 +40,7 @@ The Intel Developer Cloud proves to be an excellent platform, offering access to
 # Final Output
 Our model is proficient in detecting "ON" and "OFF" electrical appliances and calculate power consumption in a office building and suggesting how to optimize power consumption in bilding.As we train our model on image data gathered by us we use Intel® Max Series GPU which very fast, it optimizes images batches efficiently, ensuring faster processing and significantly reducing training times. We show you some of our result detected by our model.
 
-![model_performance](https://github.com/Vishalkumar158/Intel_Ai_Hackathon/assets/124500092/69436ccc-c6f5-458c-9fd9-4f9eb4c48fac)
+![model_performance](https://github.com/Vishalkumar158/IntelAiHackathon/assets/124500092/2743b072-c96d-427e-a656-f80b7ae5848e)
 
 ![image](https://github.com/Vishalkumar158/Intel_Ai_Hackathon/assets/124500092/7ec3bf63-f197-4dff-bfeb-ac4cf4a46507)
 
